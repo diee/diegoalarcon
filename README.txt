@@ -1,5 +1,5 @@
 Personal web page based on HTML5 UP.
-Check it: http://diee.github.io/personalWebTest/
+Check it: http://diee.github.io/diegoalarcon/
 
 Eventually by HTML5 UP
 html5up.net | @n33co
