@@ -31,6 +31,7 @@
 	    	"tiempoRotacion":"15000"
 	    	},
 	      	{
+	      	"id":"4",
 	    	"imgURL":"http://cdn.shopify.com/s/files/1/0231/9485/collections/LOGO-android_b15ec88f-dbc3-4764-8952-db4a593d9ff7_1024x1024.png?v=1384213040", 
 	    	"fechaInicio":"2016-05-21",
 	    	"fechaFin":"2016-06-01",
@@ -38,6 +39,7 @@
 	    	"tiempoRotacion":"10000"
 	    	},
 	    	{
+	    	"id":"5",
 	    	"imgURL":"http://www.dentalnetla.net/sitio/images/imagenes/llamayapromo.gif", 
 	    	"fechaInicio":"2016-05-01",
 	    	"fechaFin":"2016-06-10",
