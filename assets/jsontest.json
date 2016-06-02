@@ -1,11 +1,32 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
-  }
-}}
+{
+    "anuncios": {
+        "pantallacompleta": [
+            {
+		    	"imgURL":"https://cnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg", 
+		    	"name":"Android Add",
+		    	"schedule":"",
+		    	"fechaInicio":"2016-02-01",
+		    	"fechaFin":"2016-07-01",
+		    	"activada":"true",
+		    	"productoRel":"58"
+	    	},
+	      	{
+		    	"imgURL":"https://cnet2.cbsistatic.com/hub/i/r/2011/10/05/74df5391-fdc1-11e2-8c7c-d4ae52e62bcc/resize/370xauto/26609a1fcbb66cad8783b098ebf0ed80/apple-logo-2.jpg", 
+		    	"name":"iOS Add",
+		    	"schedule":"",
+		    	"fechaInicio":"2016-05-21",
+		    	"fechaFin":"2016-06-01",
+		    	"activada":"true",
+		    	"productoRel":"0"
+	    	},
+	    	{
+		    	"imgURL":"http://www.coolpctips.com/wp-content/uploads/2012/08/Windows-Phone-8-Logo.jpg", 
+		    	"name":"Windows Phone Add",
+		    	"schedule":"",
+		    	"fechaInicio":"2016-05-01",
+		    	"fechaFin":"2016-06-10",
+		    	"activada":"true",
+		    	"productoRel":"0"
+	    	}]
+    }
+}
