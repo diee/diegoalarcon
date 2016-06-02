@@ -1,68 +1,34 @@
 {  
-     "result":"ok",
+   "result":"ok",
    "response":{  
-      "anuncios": {
-        "pantallacompleta": [
-            {
-		    	"imgURL":"https://cnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg", 
-		    	"name":"Android Add",
-		    	"schedule":"",
-		    	"fechaInicio":"2016-02-01",
-		    	"fechaFin":"2016-07-01",
-		    	"activada":"true",
-		    	"productoRel":"58"
-	    	},
-	      	{
-		    	"imgURL":"https://cnet2.cbsistatic.com/hub/i/r/2011/10/05/74df5391-fdc1-11e2-8c7c-d4ae52e62bcc/resize/370xauto/26609a1fcbb66cad8783b098ebf0ed80/apple-logo-2.jpg", 
-		    	"name":"iOS Add",
-		    	"schedule":"",
-		    	"fechaInicio":"2016-05-21",
-		    	"fechaFin":"2016-06-01",
-		    	"activada":"true",
-		    	"productoRel":"0"
-	    	},
-	    	{
-		    	"imgURL":"http://www.coolpctips.com/wp-content/uploads/2012/08/Windows-Phone-8-Logo.jpg", 
-		    	"name":"Windows Phone Add",
-		    	"schedule":"",
-		    	"fechaInicio":"2016-05-01",
-		    	"fechaFin":"2016-06-10",
-		    	"activada":"true",
-		    	"productoRel":"0"
-	    	}
-        ],
-        "tirainferior": [
-            {
-		    	"imgURL":"https://tutelcel.files.wordpress.com/2011/09/bannerfacebookmegusta-460.jpg", 
-		    	"name":"Facebook Add",
-		    	"schedule":"",
-		    	"fechaInicio":"2016-02-01",
-		    	"fechaFin":"2016-07-01",
-		    	"activada":"true",
-		    	"productoRel":"58",
-		    	"tiempoRotacion":"15000"
-	    	},
-	      	{
-		    	"imgURL":"http://cdn.shopify.com/s/files/1/0231/9485/collections/LOGO-android_b15ec88f-dbc3-4764-8952-db4a593d9ff7_1024x1024.png?v=1384213040", 
-		    	"name":"Android shopify Add",
-		    	"schedule":"",
-		    	"fechaInicio":"2016-05-21",
-		    	"fechaFin":"2016-06-01",
-		    	"activada":"true",
-		    	"productoRel":"0",
-		    	"tiempoRotacion":"10000"
-	    	},
-	    	{
-		    	"imgURL":"http://www.dentalnetla.net/sitio/images/imagenes/llamayapromo.gif", 
-		    	"name":"Dental Add",
-		    	"schedule":"",
-		    	"fechaInicio":"2016-05-01",
-		    	"fechaFin":"2016-06-10",
-		    	"activada":"true",
-		    	"productoRel":"0",
-		    	"tiempoRotacion":"5000"
-	    	}
-        ]
-    }
+      "anuncios":[  
+         {  
+            "imgURL":"https://cnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg",
+            "name":"Android Add",
+            "schedule":"",
+            "fechaInicio":"2016-02-01",
+            "fechaFin":"2016-07-01",
+            "activada":"true",
+            "productoRel":"58"
+         },
+         {  
+            "imgURL":"https://cnet2.cbsistatic.com/hub/i/r/2011/10/05/74df5391-fdc1-11e2-8c7c-d4ae52e62bcc/resize/370xauto/26609a1fcbb66cad8783b098ebf0ed80/apple-logo-2.jpg",
+            "name":"iOS Add",
+            "schedule":"",
+            "fechaInicio":"2016-05-21",
+            "fechaFin":"2016-06-01",
+            "activada":"true",
+            "productoRel":"0"
+         },
+         {  
+            "imgURL":"http://www.coolpctips.com/wp-content/uploads/2012/08/Windows-Phone-8-Logo.jpg",
+            "name":"Windows Phone Add",
+            "schedule":"",
+            "fechaInicio":"2016-05-01",
+            "fechaFin":"2016-06-10",
+            "activada":"true",
+            "productoRel":"0"
+         }
+      ]
    }
 }
