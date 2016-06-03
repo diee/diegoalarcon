@@ -5,7 +5,7 @@
          {  "id":"0",
             "imgURL":"https://cnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg",
             "fechaInicio":"2016-02-01",
-            "fechaFin":"null",
+            "fechaFin":"2016-07-01",
             "producto":"57"
          },
          { 
@@ -19,14 +19,14 @@
             "id":"6",
             "imgURL":"https://cdn.codementor.io/assets/topic/category/352x352/ionic-0c4b90676c97314ee05ed2d1fab7ae91.png",
             "fechaInicio":"2016-6-01",
-            "fechaFin":"null",
+            "fechaFin":"2016-07-01",
             "producto":"null"
          },
          { 
             "id":"7",
             "imgURL":"http://www.windowscentral.com/sites/wpcentral.com/files/postimages/8873/pg_templatePreview.jpg",
             "fechaInicio":"2016-05-21",
-            "fechaFin":"2016-06-01",
+            "fechaFin":"2016-07-01",
             "producto":"null"
          },
          {  
