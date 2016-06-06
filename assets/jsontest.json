@@ -14,14 +14,16 @@
             "name":"campaña Apple",
             "imgURL":"https://cnet2.cbsistatic.com/hub/i/r/2011/10/05/74df5391-fdc1-11e2-8c7c-d4ae52e62bcc/resize/370xauto/26609a1fcbb66cad8783b098ebf0ed80/apple-logo-2.jpg",
             "fechaInicio":"2016-05-21",
-            "fechaFin":"2016-06-01"
+            "fechaFin":"2016-06-01",
+            "producto":"-1"
          },
          { 
             "id":"6",
             "name":"campaña ionic",
             "imgURL":"https://cdn.codementor.io/assets/topic/category/352x352/ionic-0c4b90676c97314ee05ed2d1fab7ae91.png",
             "fechaInicio":"2016-6-01",
-            "fechaFin":"2016-07-01"
+            "fechaFin":"2016-07-01",
+            "producto":"-1"
          },
          { 
             "id":"7",
@@ -29,7 +31,7 @@
             "imgURL":"http://www.windowscentral.com/sites/wpcentral.com/files/postimages/8873/pg_templatePreview.jpg",
             "fechaInicio":"2016-05-21",
             "fechaFin":"2016-07-01",
-            "producto":"0"
+            "producto":"-1"
          },
          {  
             "id":"2",
@@ -52,7 +54,7 @@
 	    	"imgURL":"http://cdn.shopify.com/s/files/1/0231/9485/collections/LOGO-android_b15ec88f-dbc3-4764-8952-db4a593d9ff7_1024x1024.png?v=1384213040", 
 	    	"fechaInicio":"2016-05-21",
 	    	"fechaFin":"2016-06-01",
-	    	"producto":"0",
+	    	"producto":"-1",
 	    	"tiempoRotacion":"10000"
 	    	},
 	    	{
@@ -60,7 +62,7 @@
 	    	"imgURL":"http://www.dentalnetla.net/sitio/images/imagenes/llamayapromo.gif", 
 	    	"fechaInicio":"2016-05-01",
 	    	"fechaFin":"2016-06-10",
-	    	"producto":"0",
+	    	"producto":"-1",
 	    	"tiempoRotacion":"5000"
 	    	}
       ]
