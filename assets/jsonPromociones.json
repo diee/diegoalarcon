@@ -3,7 +3,7 @@
    "response":{  
       "promociones":[  
          {  "id":"0",
-            "name":"promoción pack",
+            "name":"promocion pack",
             "descPorcentaje":"10",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
@@ -17,7 +17,7 @@
          },
          { 
             "id":"1",
-            "name":"promoción Multi-Unidad",
+            "name":"promocion Multi-Unidad",
             "descPorcentaje":"15",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
@@ -28,7 +28,7 @@
          },
          { 
             "id":"2",
-            "name":"promoción Desc-Producto",
+            "name":"promocion Desc-Producto",
             "descPorcentaje":"15",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
@@ -38,7 +38,7 @@
          },
          { 
             "id":"3",
-            "name":"promoción Volumen-Monto",
+            "name":"promocion Volumen-Monto",
             "descPorcentaje":"15",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
@@ -47,7 +47,7 @@
          },
          {  
             "id":"4",
-            "name":"promoción Desc-Compra",
+            "name":"promocion Desc-Compra",
             "descPorcentaje":"15",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
