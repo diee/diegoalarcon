@@ -43,6 +43,7 @@
          },
          {
          	"id":"3",
+         	"name":"campaña Facebook",
          	"imgURL":"https://tutelcel.files.wordpress.com/2011/09/bannerfacebookmegusta-460.jpg", 
 	   	"fechaInicio":"2016-02-01",
 	    	"fechaFin":"2016-07-01",
@@ -51,6 +52,7 @@
 	    	},
 	      	{
 	      	"id":"4",
+	      	"name":"campaña Android",
 	    	"imgURL":"http://cdn.shopify.com/s/files/1/0231/9485/collections/LOGO-android_b15ec88f-dbc3-4764-8952-db4a593d9ff7_1024x1024.png?v=1384213040", 
 	    	"fechaInicio":"2016-05-21",
 	    	"fechaFin":"9999-01-01",
@@ -59,6 +61,7 @@
 	    	},
 	    	{
 	    	"id":"5",
+	    	"name":"campaña Dental",
 	    	"imgURL":"http://www.dentalnetla.net/sitio/images/imagenes/llamayapromo.gif", 
 	    	"fechaInicio":"2016-05-01",
 	    	"fechaFin":"2016-07-10",
