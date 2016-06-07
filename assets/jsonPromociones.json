@@ -8,6 +8,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
+            "description":"¡Descripcion de promo Pack!",
             "articuloRelacionados":[
                   {"id":"57"},
                   {"id":"58"},
@@ -22,6 +23,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
+            "description":"¡Descripcion de promo Multi-Unidad!",
             "cantAfectada":"3",
             "prodAfectado":"57",
             "precio":"39.99"
@@ -33,6 +35,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
+            "description":"¡Descripcion de promo Desc-Producto!",
             "prodAfectado":"57",
             "precio":"39.99"
          },
@@ -43,6 +46,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
+            "description":"¡Descripcion de promo Volumen-Monto!",
             "limite":"299.99"
          },
          {  
@@ -51,6 +55,7 @@
             "descPorcentaje":"15",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
+            "description":"¡Descripcion de promo Desc-Compra!",
             "acumulable":"true"
          }
       ]
