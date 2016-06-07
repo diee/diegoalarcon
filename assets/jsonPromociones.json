@@ -8,6 +8,11 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
+            "productos":[
+                  {"id":"57"},
+                  {"id":"58"},
+                  {"id":"59"}
+            ],
             "precio":"49.99"
          },
          { 
