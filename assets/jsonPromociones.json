@@ -9,11 +9,7 @@
             "fechaFin":"2016-08-01",
             "acumulable":"true",
             "description":"¡Descripcion de promo Pack!",
-            "articuloRelacionados":[
-                  {"id":"57"},
-                  {"id":"58"},
-                  {"id":"59"}
-            ],
+            "articuloRelacionados":"37,38,39",
             "precio":"49.99"
          },
          { 
