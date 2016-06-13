@@ -7,39 +7,7 @@
             "imgURL":"https://BORRARcnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg",
             "fechaInicio":"2016-02-01",
             "fechaFin":"9999-01-01",
-            "producto":"57"
-         },
-         { 
-            "id":"1",
-            "name":"campaña Apple",
-            "imgURL":"https://cnet2.cbsistatic.com/hub/i/r/2011/10/05/74df5391-fdc1-11e2-8c7c-d4ae52e62bcc/resize/370xauto/26609a1fcbb66cad8783b098ebf0ed80/apple-logo-2.jpg",
-            "fechaInicio":"2016-05-21",
-            "fechaFin":"2016-06-01",
-            "producto":"-1"
-         },
-         { 
-            "id":"6",
-            "name":"campaña ionic",
-            "imgURL":"https://cdn.codementor.io/assets/topic/category/352x352/ionic-0c4b90676c97314ee05ed2d1fab7ae91.png",
-            "fechaInicio":"2016-6-01",
-            "fechaFin":"2016-07-01",
-            "producto":"-1"
-         },
-         { 
-            "id":"7",
-            "name":"campaña phonegap",
-            "imgURL":"http://www.windowscentral.com/sites/wpcentral.com/files/postimages/8873/pg_templatePreview.jpg",
-            "fechaInicio":"2016-05-21",
-            "fechaFin":"2016-07-01",
-            "producto":"-1"
-         },
-         {  
-            "id":"2",
-            "name":"campaña Windows Phone",
-            "imgURL":"http://www.coolpctips.com/wp-content/uploads/2012/08/Windows-Phone-8-Logo.jpg",
-            "fechaInicio":"2016-05-01",
-            "fechaFin":"2016-06-10",
-            "producto":"7660"
+            "producto":"40"
          },
          {
          	"id":"3",
