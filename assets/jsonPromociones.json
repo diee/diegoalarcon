@@ -8,7 +8,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
-            "description":"Pack Marlboro 10, Box y Corto con 10% de descuento",
+            "description":"Comprá Marlboro 10, Box y Corto con 10% de descuento",
             "articulosRelacionados":"57,58,56",
             "precio":"49.99"
          },
@@ -19,7 +19,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
-            "description":"¡Descripcion de promo Multi-Unidad!",
+            "description":"Comprá 3 Marlboro Corto o mas y obtené un 15%",
             "cantAfectada":"3",
             "prodAfectado":"56",
             "precio":"39.99"
@@ -31,7 +31,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
-            "description":"¡Descripcion de promo Desc-Producto!",
+            "description":"Promo lanzamiento Marlboro Fusion Blast Box. 15% de descuento!",
             "prodAfectado":"6060",
             "precio":"39.99"
          },
@@ -42,7 +42,7 @@
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
             "acumulable":"true",
-            "description":"¡Descripcion de promo Volumen-Monto!",
+            "description":"Comprá mas de $5.000 y obtené un 15% en toda tu compra!",
             "limite":"299.99"
          },
          {  
@@ -51,7 +51,7 @@
             "descPorcentaje":"15",
             "fechaInicio":"2016-02-01",
             "fechaFin":"2016-08-01",
-            "description":"¡Descripcion de promo Desc-Compra!",
+            "description":"Tu compra a través de la app tiene un 15%",
             "acumulable":"true"
          }
       ]
