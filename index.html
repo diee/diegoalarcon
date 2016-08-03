@@ -27,64 +27,7 @@
 				
 			<div class="description">
 				<p>Java, Android, JavaScript, JQuery, HTML, CSS, SASS, Phonegap/Cordova, Ionic, AngularJS</p>
-				<p id='fooHolder'></p>
-				<div id="images"></div>
-				<div id="images2"></div>
 
-			<script>
-			(function() {
-			  var myAPI = "/diegoalarcon/assets/jsonAnuncios.json";
-			  $.getJSON( myAPI, {
-			    format: "json"
-			  })
-			     .done(function( data ) {
-			     	console.log("data from API:");
-			    	console.log(data)
-			    	
-			    	console.log("data.Response.anuncios:");
-			    	var responseData = data.response.anuncios;
-			    	console.log(responseData);
-			  
-			    	$.each(responseData, function(i, anuncio){
-			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#images" );
-			    	});
-			    });
-			})();
-			</script>
-
-			<script>
-			(function() {
-			  var myAPI = "/diegoalarcon/assets/jsonRubros.json";
-			  $.getJSON( myAPI, {
-			    format: "json"
-			  })
-			     .done(function( data ) {
-			     	console.log("data from API:");
-			    	console.log(data)
-			    	
-			    	console.log("data.response:");
-			    	var responseData = data.response;
-			    	console.log(responseData);
-			  
-			    	$.each(responseData, function(i, rubro){
-			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "40").appendTo( "#images2" );
-			    	});
-			    });
-			})();
-
-			/*$.ajax({
-		          url: 'http://preprod.ordertech.com.ar/demo/1.4/api/rubros',
-		          type: 'GET',
-		          dataType: 'json',
-		          success: function() { alert('hello!'); },
-		          error: function() { alert('boo!'); },
-		          beforeSend: setHeader
-		        });
-
-			function setHeader(xhr) {
-        	xhr.setRequestHeader('Auth-Token', 'e5e9def5dbfde4565eb3f09a63764e18');
-      		}*/
-			</script>
 			</div>
 
 		<!-- Footer -->
