@@ -41,14 +41,11 @@
 			    	console.log(data)
 			    	
 			    	console.log("data.Response.anuncios:");
-			    	var responseData = data.response;
+			    	var responseData = data.response.anuncios;
 			    	console.log(responseData);
 			  
 			    	$.each(responseData, function(i, anuncio){
-			    		console.log(anuncio);
-			    		$.each(this, function(k, v){
-			    			$( "<img>" ).attr( "src", anuncio.imgURL ).appendTo( "#images" );
-			    		});
+			    		$( "<img>" ).attr( "src", anuncio.imgURL ).appendTo( "#images" );
 			    	});
 			    });
 			})();
