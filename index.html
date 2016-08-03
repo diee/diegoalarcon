@@ -29,6 +29,7 @@
 				<p>Java, Android, JavaScript, JQuery, HTML, CSS, SASS, Phonegap/Cordova, Ionic, AngularJS</p>
 				<p id='fooHolder'></p>
 				<div id="images"></div>
+				<div id="images2"></div>
 
 			<script>
 			(function() {
@@ -55,7 +56,8 @@
 			(function() {
 			  var myAPI = "/diegoalarcon/assets/jsonRubros.json";
 			  $.getJSON( myAPI, {
-			    format: "json"
+			    format: "json",
+			    beforeSend: setHeader
 			  })
 			     .done(function( data ) {
 			     	console.log("data from API:");
@@ -65,9 +67,9 @@
 			    	var responseData = data.response;
 			    	console.log(responseData);
 			  
-			    	/*$.each(responseData, function(i, rubro){
-			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#images" );
-			    	});*/
+			    	$.each(responseData, function(i, rubro){
+			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "40").appendTo( "#images2" );
+			    	});
 			    });
 			})();
 
