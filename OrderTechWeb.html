@@ -1,0 +1,93 @@
+<!DOCTYPE HTML>
+<!--
+	Eventually by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Diego Alarcon - Developer</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<h1>OrderTech Web</h1>
+			</header>
+				
+			<div class="description">
+				<p>Esto es una prueba</p>
+				<div id="anuncios"></div>
+				<div id="rubros"></div>
+
+			<script>
+			(function() {
+			  var myAPI = "/diegoalarcon/assets/jsonAnuncios.json";
+			  $.getJSON( myAPI, {
+			    format: "json"
+			  })
+			     .done(function( data ) {
+			     	console.log("data from API:");
+			    	console.log(data)
+			    	
+			    	console.log("data.Response.anuncios:");
+			    	var responseData = data.response.anuncios;
+			    	console.log(responseData);
+			  
+			    	$.each(responseData, function(i, anuncio){
+			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#anuncios" );
+			    	});
+			    });
+			})();
+			</script>
+
+			<script>
+			(function() {
+			  var myAPI = "/diegoalarcon/assets/jsonRubros.json";
+			  $.getJSON( myAPI, {
+			    format: "json"
+			  })
+			     .done(function( data ) {
+			     	console.log("data from API:");
+			    	console.log(data)
+			    	
+			    	console.log("data.response:");
+			    	var responseData = data.response;
+			    	console.log(responseData);
+			  
+			    	$.each(responseData, function(i, rubro){
+			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "40").appendTo( "#rubros" );
+			    	});
+			    });
+			})();
+
+			</script>
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="./githubExamples.html" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="./githubExamples.html" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="./githubExamples.html" class="icon fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="./githubExamples.html" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Untitled.</li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
+
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
