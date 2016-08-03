@@ -23,7 +23,7 @@
 			            success: function(resultData) {
 			                //here is your json.
 			                  // process it
-			                  console.log(resultData);
+			                  //console.log(resultData);
 			                  document.getElementById("fooHolder").innerHTML = resultData.toString();
 			            },
 			            error : function(jqXHR, textStatus, errorThrown) {
@@ -53,6 +53,7 @@
 			    format: "json"
 			  })
 			    .done(function( data ) {
+			    	console.log(data);
 			      $.each( data.items, function( i, item ) {
 			      	console.log(data);
 			        /*$( "<img>" ).attr( "src", item.anuncios.imgURL ).appendTo( "#fooHolder" );
