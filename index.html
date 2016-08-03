@@ -45,7 +45,7 @@
 			    	console.log(responseData);
 			  
 			    	$.each(responseData, function(i, anuncio){
-			    		$( "<img>" ).attr( "src", anuncio.imgURL ).appendTo( "#images" );
+			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#images" );
 			    	});
 			    });
 			})();
