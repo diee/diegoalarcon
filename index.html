@@ -52,7 +52,7 @@
 			</script>
 
 			<script>
-			(function() {
+			/*(function() {
 			  var myAPI = "http://preprod.ordertech.com.ar/demo/1.4/api/articulos?desde=0";
 			  $.getJSON( myAPI, {
 			    format: "json",
@@ -68,18 +68,18 @@
 			  
 			    	$.each(responseData, function(i, anuncio){
 			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#images" );
-			    	});*/
+			    	});
 			    });
-			})();
+			})();*/
 
-			/*$.ajax({
+			$.ajax({
 		          url: 'http://preprod.ordertech.com.ar/demo/1.4/api/articulos?desde=0',
 		          type: 'GET',
 		          dataType: 'json',
 		          success: function() { alert('hello!'); },
 		          error: function() { alert('boo!'); },
 		          beforeSend: setHeader
-		        });*/
+		        });
 
 			function setHeader(xhr) {
         	xhr.setRequestHeader('Auth-Token', 'e5e9def5dbfde4565eb3f09a63764e18');
