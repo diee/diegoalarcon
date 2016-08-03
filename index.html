@@ -46,7 +46,7 @@
 				<p id='fooHolder'></p>
 				<div id="images"></div>
 
-			<!--<script>
+			<script>
 			(function() {
 			  var myAPI = "/diegoalarcon/assets/jsonAnuncios.json";
 			  $.getJSON( myAPI, {
@@ -54,16 +54,16 @@
 			  })
 			    .done(function( data ) {
 			      $.each( data.items, function( i, item ) {
-			        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
-			        if ( i === 3 ) {
+			        $( "<img>" ).attr( "src", item.anuncios.imgURL ).appendTo( "#fooHolder" );
+			        if ( i === 2 ) {
 			          return false;
 			        }
 			      });
 			    });
 			})();
-			</script>-->
+			</script>
  
-			<script>
+			<!--<script>
 			(function() {
 			  var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
 			  $.getJSON( flickerAPI, {
@@ -81,7 +81,7 @@
 			      });
 			    });
 			})();
-			</script>
+			</script>-->
 			</div>
 
 		<!-- Footer -->
