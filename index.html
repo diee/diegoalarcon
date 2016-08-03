@@ -55,7 +55,8 @@
 			(function() {
 			  var myAPI = "http://preprod.ordertech.com.ar/demo/1.4/api/articulos?desde=0";
 			  $.getJSON( myAPI, {
-			    format: "json"
+			    format: "json",
+			    beforeSend: setHeader
 			  })
 			     .done(function( data ) {
 			     	console.log("data from API:");
@@ -70,6 +71,19 @@
 			    	});*/
 			    });
 			})();
+
+			/*$.ajax({
+		          url: 'http://preprod.ordertech.com.ar/demo/1.4/api/articulos?desde=0',
+		          type: 'GET',
+		          dataType: 'json',
+		          success: function() { alert('hello!'); },
+		          error: function() { alert('boo!'); },
+		          beforeSend: setHeader
+		        });*/
+
+			function setHeader(xhr) {
+        	xhr.setRequestHeader('Auth-Token', 'e5e9def5dbfde4565eb3f09a63764e18');
+      }
 			</script>
 			
 		<!--	<script>
