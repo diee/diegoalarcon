@@ -56,8 +56,7 @@
 			(function() {
 			  var myAPI = "/diegoalarcon/assets/jsonRubros.json";
 			  $.getJSON( myAPI, {
-			    format: "json",
-			    beforeSend: setHeader
+			    format: "json"
 			  })
 			     .done(function( data ) {
 			     	console.log("data from API:");
