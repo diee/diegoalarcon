@@ -56,7 +56,9 @@
 			    	console.log(data)
 			    	var dataParse = $.parseJSON(data);
 			    	
-			    	$.each(data.response.anuncios, function(){
+			    	console.log(dataParse);
+			    	
+			    	$.each(dataParse.response.anuncios, function(){
 			    		$.each(this, function(k , v){
 			    			alert(k + ' ' + v);
 			    		});
