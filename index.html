@@ -16,6 +16,7 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		
 		<script>
+		var resultData;
 				jQuery.ajax({
             				url: "/diegoalarcon/assets/jsonAnuncios.json",
 			            type: "GET",
@@ -23,6 +24,7 @@
 			            success: function(resultData) {
 			                //here is your json.
 			                  // process it
+			                  resultData = resultData;
 			                  console.log(resultData);
 			            },
 			            error : function(jqXHR, textStatus, errorThrown) {
