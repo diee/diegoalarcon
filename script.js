@@ -1,5 +1,5 @@
 jQuery.ajax({
-            url: "/assets/jsontest.json,
+            url: "/assets/jsontest,
             type: "GET",
 
             contentType: 'application/json; charset=utf-8',
