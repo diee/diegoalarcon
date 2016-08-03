@@ -4,7 +4,7 @@
       "anuncios":[  
          {  "id":"0",
             "name":"Philip Morris Nuevo Anuncio",
-            "imgURL":"https://BORRARcnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg",
+            "imgURL":"https://cnet4.cbsistatic.com/hub/i/2011/10/27/a66dfbb7-fdc7-11e2-8c7c-d4ae52e62bcc/android-wallpaper5_2560x1600_1.jpg",
             "fechaInicio":"2016-02-01",
             "fechaFin":"9999-01-01",
             "producto":"40"
@@ -12,7 +12,7 @@
          {
          	"id":"1",
          	"name":"Marlboro Lanzamiento Anuncio ",
-         	"imgURL":"https://BORRARtutelcel.files.wordpress.com/2011/09/bannerfacebookmegusta-460.jpg", 
+         	"imgURL":"https://tutelcel.files.wordpress.com/2011/09/bannerfacebookmegusta-460.jpg", 
 	   	"fechaInicio":"2016-02-01",
 	    	"fechaFin":"2016-08-01",
 	    	"producto":"6060",
