@@ -64,7 +64,7 @@
 			    	console.log(responseData);
 			  
 			    	$.each(responseData, function(i, rubro){
-			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "40").appendTo( "#rubros" );
+			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {alert(rubro.id + " / " + rubro.descripcion)};
 			    	});
 			    });
 			})();
