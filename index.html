@@ -45,7 +45,8 @@
 			    	console.log(responseData);
 			  
 			    	$.each(responseData, function(i, anuncio){
-			    		$.each(this, function(){
+			    		console.log(anuncio);
+			    		$.each(this, function(k, v){
 			    			$( "<img>" ).attr( "src", anuncio.imgURL ).appendTo( "#images" );
 			    		});
 			    	});
