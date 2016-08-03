@@ -64,12 +64,35 @@
 			    	console.log(responseData);
 			  
 			    	$.each(responseData, function(i, rubro){
-			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {
+			    		/*$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {
 			    			alert(rubro.id + " / " + rubro.descripcion);
-			    		});
+			    		});*/
+			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', callFamilias(rubro.id)
+			    		);
 			    	});
 			    });
 			})();
+
+			function callFamilias(id){
+				  var myAPI = "/diegoalarcon/assets/jsonFamilias.json";
+			  $.getJSON( myAPI, {
+			    format: "json"
+			  })
+			     .done(function( data ) {
+			     	console.log("data from API:");
+			    	console.log(data)
+			    	
+			    	console.log("data.response:");
+			    	var responseData = data.response;
+			    	console.log(responseData);
+			  
+			    	$.each(responseData, function(i, familia){
+			    		$( "<img>" ).attr( "src", familia.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {
+			    			alert(familia.id + " / " + familia.descripcion);
+			    		});
+			    	});
+			    });
+			};
 
 			</script>
 			</div>
