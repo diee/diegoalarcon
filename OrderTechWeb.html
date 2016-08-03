@@ -14,28 +14,6 @@
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<script>
-		function callFamilias(id){
-				  var myAPI = "/diegoalarcon/assets/jsonFamilias.json";
-			  $.getJSON( myAPI, {
-			    format: "json"
-			  })
-			     .done(function( data ) {
-			     	console.log("data from API:");
-			    	console.log(data)
-			    	
-			    	console.log("data.response:");
-			    	var responseData = data.response;
-			    	console.log(responseData);
-			  
-			    	$.each(responseData, function(i, familia){
-			    		$( "<img>" ).attr( "src", familia.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {
-			    			alert(familia.id + " / " + familia.descripcion);
-			    		});
-			    	});
-			    });
-			};
-		</script>
 		
 	</head>
 	<body>
@@ -94,6 +72,10 @@
 			    	});
 			    });
 			})();
+			
+			function callFamilias(id){
+				aleter("id: " + id);
+			}
 
 			</script>
 			</div>
