@@ -55,10 +55,9 @@
 			     .done(function( data ) {
 			     	console.log("data from API:");
 			    	console.log(data)
-			    	var dataParse = $.parseJSON(data);
 			    	
-			    	console.log("dataParse:");
-			    	console.log(dataParse);
+			    	console.log("data.Response:");
+			    	console.log(data.response);
 			    	
 			    	$.each(dataParse.response.anuncios, function(){
 			    		$.each(this, function(k , v){
