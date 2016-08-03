@@ -54,6 +54,13 @@
 			  })
 			     .done(function( data ) {
 			    	console.log(data)
+			    	var dataParse = $.parseJSON(data);
+			    	
+			    	$.each(data.response.anuncios, function(){
+			    		$.each(this, function(k , v){
+			    			alert(k + ' ' + v);
+			    		});
+			    	});
 			     /* $.each( data.items, function( i, item ) {
 			        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
 			        if ( i === 3 ) {
@@ -71,7 +78,7 @@
 				
 				$.each(data.venues, function() {
 				                $.each(this, function(k, v) {
-				                    alert(k + ' ' + v);
+				                    console.log(k + ' ' + v);
 				                });
 				            });
 				
