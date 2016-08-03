@@ -41,8 +41,8 @@
 			    	console.log(data)
 			    	
 			    	console.log("data.Response.anuncios:");
-			    	var responseData = data.response;
-			    	console.log(responseData.anuncios);
+			    	var responseData = data.response.anuncios;
+			    	console.log(responseData);
 			  
 			    	$.each(responseData, function(i, anuncio){
 			    		$.each(this, function(k , v){
