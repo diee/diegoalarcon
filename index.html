@@ -45,25 +45,43 @@
 				<p>Java, Android, JavaScript, JQuery, HTML, CSS, SASS, Phonegap/Cordova, Ionic, AngularJS</p>
 				<p id='fooHolder'></p>
 				<div id="images"></div>
+
+			<!--<script>
+			(function() {
+			  var myAPI = "/diegoalarcon/assets/jsonAnuncios.json";
+			  $.getJSON( myAPI, {
+			    format: "json"
+			  })
+			    .done(function( data ) {
+			      $.each( data.items, function( i, item ) {
+			        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
+			        if ( i === 3 ) {
+			          return false;
+			        }
+			      });
+			    });
+			})();
+			</script>-->
  
-<script>
-(function() {
-  var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
-  $.getJSON( flickerAPI, {
-    tags: "mount rainier",
-    tagmode: "any",
-    format: "json"
-  })
-    .done(function( data ) {
-      $.each( data.items, function( i, item ) {
-        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
-        if ( i === 3 ) {
-          return false;
-        }
-      });
-    });
-})();
-</script>
+			<script>
+			(function() {
+			  var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
+			  $.getJSON( flickerAPI, {
+			    tags: "mount rainier",
+			    tagmode: "any",
+			    format: "json"
+			  })
+			    .done(function( data ) {
+			    	console.log(data)
+			      $.each( data.items, function( i, item ) {
+			        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
+			        if ( i === 3 ) {
+			          return false;
+			        }
+			      });
+			    });
+			})();
+			</script>
 			</div>
 
 		<!-- Footer -->
