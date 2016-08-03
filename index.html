@@ -13,6 +13,22 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		
+		<script>
+				jQuery.ajax({
+            				url: "/assets/jsontest,
+			            type: "GET",
+			            contentType: 'application/json; charset=utf-8',
+			            success: function(resultData) {
+			                //here is your json.
+			                  // process it
+			                  console.log(resultData);
+			            },
+			            error : function(jqXHR, textStatus, errorThrown) {
+			            },
+			            timeout: 120000,
+			        });
+			        </script>
 	</head>
 	<body>
 
@@ -24,21 +40,7 @@
 			</header>
 				
 			<div class="description">
-				<!--<p>Java, Android, JavaScript, JQuery, HTML, CSS, SASS, Phonegap/Cordova, Ionic, AngularJS</p>-->
-				<script>
-				jQuery.ajax({
-            				url: "/assets/jsontest,
-			            type: "GET",
-			            contentType: 'application/json; charset=utf-8',
-			            success: function(resultData) {
-			                //here is your json.
-			                  // process it
-			            },
-			            error : function(jqXHR, textStatus, errorThrown) {
-			            },
-			            timeout: 120000,
-			        });
-			        </script>
+				<p>Java, Android, JavaScript, JQuery, HTML, CSS, SASS, Phonegap/Cordova, Ionic, AngularJS</p>
 			</div>
 
 		<!-- Footer -->
