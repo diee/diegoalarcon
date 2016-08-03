@@ -53,9 +53,9 @@
 			    format: "json"
 			  })
 			    .done(function( data ) {
-			    	console.log("from here: " + data);
+			    	console.log(data);
 			      $.each( data.items, function( i, item ) {
-			      	console.log(data);
+			      	console.log(data.response);
 			        /*$( "<img>" ).attr( "src", item.anuncios.imgURL ).appendTo( "#fooHolder" );
 			        if ( i === 2 ) {
 			          return false;
