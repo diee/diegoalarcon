@@ -54,10 +54,11 @@
 			  })
 			    .done(function( data ) {
 			      $.each( data.items, function( i, item ) {
-			        $( "<img>" ).attr( "src", item.anuncios.imgURL ).appendTo( "#fooHolder" );
+			      	console.log(item);
+			        /*$( "<img>" ).attr( "src", item.anuncios.imgURL ).appendTo( "#fooHolder" );
 			        if ( i === 2 ) {
 			          return false;
-			        }
+			        }*/
 			      });
 			    });
 			})();
