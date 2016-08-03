@@ -53,9 +53,11 @@
 			    format: "json"
 			  })
 			     .done(function( data ) {
+			     	console.log("data from API:");
 			    	console.log(data)
 			    	var dataParse = $.parseJSON(data);
 			    	
+			    	console.log("dataParse:");
 			    	console.log(dataParse);
 			    	
 			    	$.each(dataParse.response.anuncios, function(){
