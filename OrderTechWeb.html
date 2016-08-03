@@ -67,7 +67,7 @@
 			    		/*$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {
 			    			alert(rubro.id + " / " + rubro.descripcion);
 			    		});*/
-			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', callFamilias(rubro.id)
+			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).click(callFamilias(rubro.id)
 			    		);
 			    	});
 			    });
