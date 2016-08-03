@@ -75,7 +75,7 @@
 			$.ajax({
 		          url: 'http://preprod.ordertech.com.ar/demo/1.4/api/articulos?desde=0',
 		          type: 'GET',
-		          dataType: 'json',
+		          dataType: 'jsonp',
 		          success: function() { alert('hello!'); },
 		          error: function() { alert('boo!'); },
 		          beforeSend: setHeader
