@@ -62,7 +62,7 @@
 			  
 			    	$.each(responseData.anuncios, function(){
 			    		$.each(this, function(k , v){
-			    			alert(k + ' ' + v);
+			    			$( "<img>" ).attr( "src", anuncio.imgURL ).appendTo( "#images" );
 			    		});
 			    	});
 			     /* $.each( data.items, function( i, item ) {
