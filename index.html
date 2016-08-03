@@ -57,9 +57,10 @@
 			    	console.log(data)
 			    	
 			    	console.log("data.Response:");
-			    	console.log(data.response);
-			    	
-			    	$.each(dataParse.response.anuncios, function(){
+			    	var responseData = data.response;
+			    	console.log(responseData);
+			  
+			    	$.each(responseData.anuncios, function(){
 			    		$.each(this, function(k , v){
 			    			alert(k + ' ' + v);
 			    		});
