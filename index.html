@@ -52,27 +52,26 @@
 			</script>
 
 			<script>
-			/*(function() {
-			  var myAPI = "http://preprod.ordertech.com.ar/demo/1.4/api/articulos?desde=0";
+			(function() {
+			  var myAPI = "/diegoalarcon/assets/jsonRubros.json";
 			  $.getJSON( myAPI, {
-			    format: "json",
-			    beforeSend: setHeader
+			    format: "json"
 			  })
 			     .done(function( data ) {
 			     	console.log("data from API:");
 			    	console.log(data)
 			    	
-			    	/*console.log("data.Response.anuncios:");
-			    	var responseData = data.response.anuncios;
+			    	console.log("data.response:");
+			    	var responseData = data.response;
 			    	console.log(responseData);
 			  
-			    	$.each(responseData, function(i, anuncio){
+			    	/*$.each(responseData, function(i, rubro){
 			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#images" );
-			    	});
+			    	});*/
 			    });
-			})();*/
+			})();
 
-			$.ajax({
+			/*$.ajax({
 		          url: 'http://preprod.ordertech.com.ar/demo/1.4/api/rubros',
 		          type: 'GET',
 		          dataType: 'json',
@@ -83,42 +82,8 @@
 
 			function setHeader(xhr) {
         	xhr.setRequestHeader('Auth-Token', 'e5e9def5dbfde4565eb3f09a63764e18');
-      }
+      		}*/
 			</script>
-			
-		<!--	<script>
-				$(function() {
-				
-				var data = $.parseJSON('{"success":true,"venues":[{"id":237,"title":"Country House Hotel and Restaurant","thumb_image":"thumb_combe-house-buttercups_3617067271.jpg","description":"","subType":1},{"id":579,"title":"Abode Exeter","thumb_image":"wvs.jpg","description":"","subType":0},{"id":484,"title":"Anran Luxury Boutique","thumb_image":"wvs.jpg","description":"","subType":0}]}');
-				console.log(data);
-				$.each(data.venues, function() {
-				                $.each(this, function(k, v) {
-				                    console.log(k + ' ' + v);
-				                });
-				            });
-				
-				});
-			</script>
- 
-			<script>
-			(function() {
-			  var flickerAPI = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
-			  $.getJSON( flickerAPI, {
-			    tags: "mount rainier",
-			    tagmode: "any",
-			    format: "json"
-			  })
-			    .done(function( data ) {
-			    	console.log(data)
-			      $.each( data.items, function( i, item ) {
-			        $( "<img>" ).attr( "src", item.media.m ).appendTo( "#images" );
-			        if ( i === 3 ) {
-			          return false;
-			        }
-			      });
-			    });
-			})();
-			</script>-->
 			</div>
 
 		<!-- Footer -->
