@@ -12,6 +12,7 @@
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="script.js"></script>
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		
@@ -27,70 +28,14 @@
 				<p>Esto es una prueba</p>
 				<div id="anuncios"></div>
 				<div id="rubros"></div>
+				<div id="familias"></div>
+				<div id="articulos"></div>
 
-			<script>
-			(function() {
-			  var myAPI = "/diegoalarcon/assets/jsonAnuncios.json";
-			  $.getJSON( myAPI, {
-			    format: "json"
-			  })
-			     .done(function( data ) {
-			     	console.log("data from API:");
-			    	console.log(data)
-			    	
-			    	console.log("data.Response.anuncios:");
-			    	var responseData = data.response.anuncios;
-			    	console.log(responseData);
-			  
-			    	$.each(responseData, function(i, anuncio){
-			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#anuncios" );
-			    	});
-			    });
-			})();
-			</script>
-
-			<script>
-			(function() {
-			  var myAPI = "/diegoalarcon/assets/jsonRubros.json";
-			  $.getJSON( myAPI, {
-			    format: "json"
-			  })
-			     .done(function( data ) {
-			     	console.log("data from API:");
-			    	console.log(data)
-			    	
-			    	console.log("data.response:");
-			    	var responseData = data.response;
-			    	console.log(responseData);
-			  
-			    	$.each(responseData, function(i, rubro){
-			    		/*$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).on('click', function() {
-			    			alert(rubro.id + " / " + rubro.descripcion);
-			    		});*/
-			    		$( "<img>" ).attr( "src", rubro.imagen ).attr("height", "80").appendTo( "#rubros" ).click(callFamilias(rubro.id)
-			    		);
-			    	});
-			    });
-			})();
-			
-			function callFamilias(id){
-				alert("id: " + id);
-			}
-
-			</script>
 			</div>
 
 		<!-- Footer -->
 			<footer id="footer">
-				<ul class="icons">
-					<li><a href="./githubExamples.html" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="./githubExamples.html" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="./githubExamples.html" class="icon fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="./githubExamples.html" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
-				</ul>
-				<ul class="copyright">
-					<li>&copy; Untitled.</li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
-				</ul>
+				<button id="btnLimpiar" type="button">Limpiar</button>
 			</footer>
 
 		<!-- Scripts -->
