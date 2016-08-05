@@ -16,7 +16,7 @@ $( document ).ready(function() {
 			    	var responseData = data.response.anuncios;
 			  
 			    	$.each(responseData, function(i, anuncio){
-			    		$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#anuncios" );
+			    		//$( "<img>" ).attr( "src", anuncio.imgURL ).attr("height", "40").appendTo( "#anuncios" );
 			    	});
 			    });
 			})();
