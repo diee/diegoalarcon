@@ -1,0 +1,36 @@
+{  
+   "result":"ok",
+   "response":{  
+      "notificaciones":[  
+         {  "id":"0",
+            "title":"Nuevas Promociones",
+            "message":"Aprovecha las nuevas promociones del mes de Octubre",
+            "imagen_url": ""
+         },
+         { 
+            "id":"1",
+            "title":"Recordatorio FERIADO",
+            "message":"Se aproxima el feriado, no te olvides de hacer tus pedidos antes del viernes",
+            "imagen_url": ""
+         },
+         { 
+            "id":"2",
+            "title":"Nueva Familia de Articulos",
+            "message":"Incorporamos una nueva de Familia de Articulos",
+            "imagen_url": ""
+         },
+         { 
+            "id":"3",
+            "title":"Cambio de Contraseña",
+            "message":"Ahora podes cambiar tu contraseña desde el link al inicio de la APP",
+            "imagen_url": ""
+         },
+         {  
+            "id":"4",
+            "title":"Pedidos Anteriores",
+            "message":"En Pedidos Anteriores podras reutilizar tus pedidos, para ahorrarte tiempo",
+            "imagen_url": ""
+         }
+      ]
+   }
+}
