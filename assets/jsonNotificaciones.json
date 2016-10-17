@@ -11,7 +11,7 @@
             "id":"1",
             "title":"Recordatorio FERIADO",
             "message":"Se aproxima el feriado, no te olvides de hacer tus pedidos antes del viernes",
-            "imagen_url": "https://www.google.com.ar/search?q=feriado+argentina&biw=1600&bih=719&tbm=isch&source=lnms&sa=X&ved=0ahUKEwi03rXB0OLPAhWHDpAKHWGNDiAQ_AUIBygC#imgrc=sat348V79_X1xM%3A"
+            "imagen_url": ""
          },
          { 
             "id":"2",
@@ -23,7 +23,7 @@
             "id":"3",
             "title":"Cambio de Contraseña",
             "message":"Ahora podes cambiar tu contraseña desde el link al inicio de la APP",
-            "imagen_url": ""
+            "imagen_url": "http://www.lewis.kyschools.us/images/change_password.png"
          },
          {  
             "id":"4",
