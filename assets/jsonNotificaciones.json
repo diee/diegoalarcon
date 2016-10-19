@@ -1,7 +1,7 @@
 {  
    "result":"ok",
    "response":{  
-      "notificaciones":[  
+      "alertas":[  
          {  "id":"0",
             "title":"Nuevas Promociones",
             "message":"Aprovecha las nuevas promociones del mes de Octubre",
