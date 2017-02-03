@@ -2,16 +2,6 @@
    "result":"ok",
    "response":{  
       "mensajes":[  
-         {  
-            "mensaje":"Buen dia, queria consultar por que no puedo realizar un pedido el dia de la fecha.",
-            "remitente":"usuario",
-            "fecha":"10/11/2017"
-         },
-         {  
-            "mensaje":"Estimado Pepe Perez, esta mañana hubo un incoveniente con el sistema pero ya esta solucionado. En caso de que el problema persista, por favor cierre la aplicacion y vuelva a abrir, y revise su conexión. Saludos cordiales",
-            "remitente":"cliente",
-            "fecha":"11/11/2017"
-         }
       ]
    }
 }
