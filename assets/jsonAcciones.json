@@ -4,6 +4,8 @@
       "acciones":[  
          {  
             "cumple":"true",
+            "descripcion":"accion 1",
+"imagen_url":"",
             "condiciones":[  
                {  
                   "cumple":"true",
@@ -23,11 +25,14 @@
             ],
             "recompensa":{  
                "descuento":"0.10",
-               "productos":"Reloj water resist"
+               "productos":"Reloj water resist",
+               "cantidad":1
             }
          },
          {  
             "cumple":"true",
+            "descripcion":"accion 1",
+"imagen_url":"",
             "condiciones":[  
                {  
                   "cumple":"true",
@@ -50,7 +55,8 @@
             ],
             "recompensa":{  
                "descuento":"0",
-               "productos":"Pañuelos"
+               "productos":"Pañuelos",
+               "cantidad":1
             }
          }
       ]
