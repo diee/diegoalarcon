@@ -11,15 +11,7 @@
                   "cumple":"true",
                   "cantidad":"10",
                   "articulosId":[  
-                     {  
-                        "sku":2603
-                     },
-                     {  
-                        "sku":2604
-                     },
-                     {  
-                        "sku":2605
-                     }
+                     2603,2604,2605
                   ]
                }
             ],
@@ -38,18 +30,14 @@
                   "cumple":"true",
                   "cantidad":"1",
                   "articulosId":[  
-                     {  
-                        "sku":2526
-                     }
+                     2526
                   ]
                },
                {  
                   "cumple":"true",
                   "cantidad":"1",
                   "articulosId":[  
-                     {  
-                        "sku":2525
-                     }
+                     2525
                   ]
                }
             ],
