@@ -43,6 +43,48 @@
                "productos":"Pañuelos",
                "cantidad":1
             }
+         },
+         {  
+            "cumple":"true",
+            "descripcion":"accion 3",
+"imagen_url":"",
+            "condiciones":[  
+               { 
+                  "cantidad":"24",
+                  "articulosId":[  
+                     2629
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "descuento":"0",
+               "productos":"Nesquick chocobarra",
+               "cantidad":1
+            }
+         },
+                  {  
+            "cumple":"true",
+            "descripcion":"accion 4",
+"imagen_url":"",
+            "condiciones":[  
+               { 
+                  "cantidad":"1",
+                  "articulosId":[  
+                     2707
+                  ]
+               },
+               { 
+                  "cantidad":"1",
+                  "articulosId":[  
+                     2705
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "descuento":"0",
+               "productos":"Nesquick chocobarra",
+               "cantidad":1
+            }
          }
       ]
    }
