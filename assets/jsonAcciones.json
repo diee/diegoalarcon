@@ -7,8 +7,7 @@
             "descripcion":"accion 1",
 "imagen_url":"",
             "condiciones":[  
-               {  
-                  "cumple":"true",
+               { 
                   "cantidad":"10",
                   "articulosId":[  
                      2603,2604,2605
@@ -26,15 +25,13 @@
             "descripcion":"accion 2",
 "imagen_url":"",
             "condiciones":[  
-               {  
-                  "cumple":"true",
+               { 
                   "cantidad":"1",
                   "articulosId":[  
                      2526
                   ]
                },
-               {  
-                  "cumple":"true",
+               { 
                   "cantidad":"1",
                   "articulosId":[  
                      2525
