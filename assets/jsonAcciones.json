@@ -3,7 +3,7 @@
    "response":{  
       "acciones":[  
          {  
-            "cumple":"true",
+            "cumple":"false",
             "descripcion":"Accion OCB a eleccion",
 "imagen_url":"",
             "condiciones":[  
@@ -21,7 +21,7 @@
             }
          },
          {  
-            "cumple":"true",
+            "cumple":"false",
             "descripcion":"Accion Gallo Chocobarras",
 "imagen_url":"",
             "condiciones":[  
@@ -45,7 +45,7 @@
             }
          },
          {  
-            "cumple":"true",
+            "cumple":"false",
             "descripcion":"Accion Nesquik",
 "imagen_url":"",
             "condiciones":[  
@@ -63,7 +63,7 @@
             }
          },
                   {  
-            "cumple":"true",
+            "cumple":"false",
             "descripcion":"Accion pilas Energizer y Eveready",
 "imagen_url":"",
             "condiciones":[  
