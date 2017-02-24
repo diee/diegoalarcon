@@ -4,49 +4,49 @@
       "acciones":[  
          {  
             "cumple":"true",
-            "descripcion":"accion 1",
+            "descripcion":"Accion OCB a eleccion",
 "imagen_url":"",
             "condiciones":[  
                { 
-                  "cantidad":"10",
+                  "cantidad":"2",
                   "articulosId":[  
-                     2603,2604,2605
+                     2216,2212,2214
                   ]
                }
             ],
             "recompensa":{  
                "descuento":"0.10",
-               "productos":"Reloj water resist",
-               "cantidad":1
+               "productos":"",
+               "cantidad":0
             }
          },
          {  
             "cumple":"true",
-            "descripcion":"accion 2",
+            "descripcion":"Accion Gallo Chocobarras",
 "imagen_url":"",
             "condiciones":[  
                { 
                   "cantidad":"1",
                   "articulosId":[  
-                     2526
+                     2525
                   ]
                },
                { 
                   "cantidad":"1",
                   "articulosId":[  
-                     2525
+                     2524
                   ]
                }
             ],
             "recompensa":{  
-               "descuento":"0",
-               "productos":"Pañuelos",
-               "cantidad":1
+               "descuento":"0.10",
+               "productos":"",
+               "cantidad":0
             }
          },
          {  
             "cumple":"true",
-            "descripcion":"accion 3",
+            "descripcion":"Accion Nesquik",
 "imagen_url":"",
             "condiciones":[  
                { 
@@ -58,13 +58,13 @@
             ],
             "recompensa":{  
                "descuento":"0",
-               "productos":"Nesquick chocobarra",
+               "productos":"Nesquik chocobarra x24",
                "cantidad":1
             }
          },
                   {  
             "cumple":"true",
-            "descripcion":"accion 4",
+            "descripcion":"Accion pilas Energizer y Eveready",
 "imagen_url":"",
             "condiciones":[  
                { 
@@ -83,7 +83,7 @@
             "recompensa":{  
                "descuento":"0",
                "productos":"2 AAx4 y 3 AAAx2 SIN CARGO",
-               "cantidad":1
+               "cantidad":0
             }
          }
       ]
