@@ -86,6 +86,25 @@
                "cantidad":0
             }
          }
+         ,
+                  {  
+            "cumple":"false",
+            "descripcion":"Suflair 20 unidades",
+"imagen_url":"",
+            "condiciones":[  
+               { 
+                  "cantidad":"20",
+                  "articulosId":[  
+                     2611
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "descuento":"0",
+               "productos":"6 KitKat SIN CARGO",
+               "cantidad":0
+            }
+         }
       ]
    }
 }
