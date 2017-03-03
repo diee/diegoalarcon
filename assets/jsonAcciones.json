@@ -5,12 +5,14 @@
          {  
             "cumple":"false",
             "descripcion":"Accion OCB a eleccion",
-"imagen_url":"http://diee.github.io/diegoalarcon/images/ocb_10.jpg",
+            "imagen_url":"http://diee.github.io/diegoalarcon/images/ocb_10.jpg",
             "condiciones":[  
-               { 
+               {  
                   "cantidad":"2",
                   "articulosId":[  
-                     2216,2212,2214
+                     2216,
+                     2212,
+                     2214
                   ]
                }
             ],
@@ -23,15 +25,15 @@
          {  
             "cumple":"false",
             "descripcion":"Accion Gallo Chocobarras",
-"imagen_url":"http://diee.github.io/diegoalarcon/images/gallo_10.jpg",
+            "imagen_url":"http://diee.github.io/diegoalarcon/images/gallo_10.jpg",
             "condiciones":[  
-               { 
+               {  
                   "cantidad":"1",
                   "articulosId":[  
                      2525
                   ]
                },
-               { 
+               {  
                   "cantidad":"1",
                   "articulosId":[  
                      2524
@@ -47,9 +49,9 @@
          {  
             "cumple":"false",
             "descripcion":"Accion Nesquik",
-"imagen_url":"http://diee.github.io/diegoalarcon/images/nesquik_24.jpg",
+            "imagen_url":"http://diee.github.io/diegoalarcon/images/nesquik_24.jpg",
             "condiciones":[  
-               { 
+               {  
                   "cantidad":"24",
                   "articulosId":[  
                      2629
@@ -62,18 +64,18 @@
                "cantidad":1
             }
          },
-                  {  
+         {  
             "cumple":"false",
             "descripcion":"Accion pilas Energizer y Eveready",
-"imagen_url":"http://diee.github.io/diegoalarcon/images/energizer_2y3.jpg",
+            "imagen_url":"http://diee.github.io/diegoalarcon/images/energizer_2y3.jpg",
             "condiciones":[  
-               { 
+               {  
                   "cantidad":"1",
                   "articulosId":[  
                      2707
                   ]
                },
-               { 
+               {  
                   "cantidad":"1",
                   "articulosId":[  
                      2705
@@ -85,14 +87,13 @@
                "productos":"2 AAx4 y 3 AAAx2 SIN CARGO",
                "cantidad":0
             }
-         }
-         ,
-                  {  
+         },
+         {  
             "cumple":"false",
             "descripcion":"Suflair 20 unidades",
-"imagen_url":"http://diee.github.io/diegoalarcon/images/kitkat_6.jpg",
+            "imagen_url":"http://diee.github.io/diegoalarcon/images/kitkat_6.jpg",
             "condiciones":[  
-               { 
+               {  
                   "cantidad":"20",
                   "articulosId":[  
                      2611
@@ -102,6 +103,86 @@
             "recompensa":{  
                "descuento":"0",
                "productos":"6 KitKat SIN CARGO",
+               "cantidad":0
+            }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"RP x 10 3 Unidades",
+            "imagen_url":"",
+            "feelogistico":"true",
+            "condiciones":[  
+               {  
+                  "cantidad":"3",
+                  "articulosId":[  
+                     2215
+                  ]
+               }
+            ],
+            "recompensa":{
+               "fee":"16.32",  
+               "descuento":"0.2785",
+               "productos":"",
+               "cantidad":0
+            }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"RP x 10 5 Unidades",
+            "imagen_url":"",
+            "feelogistico":"true",
+            "condiciones":[  
+               {  
+                  "cantidad":"5",
+                  "articulosId":[  
+                     2215
+                  ]
+               }
+            ],
+            "recompensa":{
+               "fee":"16.32",  
+               "descuento":"0.4304",
+               "productos":"",
+               "cantidad":0
+            }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"RP x 10 10 Unidades",
+            "imagen_url":"",
+            "feelogistico":"true",
+            "condiciones":[  
+               {  
+                  "cantidad":"10",
+                  "articulosId":[  
+                     2215
+                  ]
+               }
+            ],
+            "recompensa":{
+               "fee":"16.32",  
+               "descuento":"0.6835",
+               "productos":"",
+               "cantidad":0
+            }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"RP x 10 25 Unidades",
+            "imagen_url":"",
+            "feelogistico":"true",
+            "condiciones":[  
+               {  
+                  "cantidad":"10",
+                  "articulosId":[  
+                     2215
+                  ]
+               }
+            ],
+            "recompensa":{
+               "fee":"16.32",  
+               "descuento":"0.9367",
+               "productos":"",
                "cantidad":0
             }
          }
