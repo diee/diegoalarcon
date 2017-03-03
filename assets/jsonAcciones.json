@@ -6,6 +6,7 @@
             "cumple":"false",
             "descripcion":"Accion OCB a eleccion",
             "imagen_url":"http://diee.github.io/diegoalarcon/images/ocb_10.jpg",
+            "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"2",
@@ -26,6 +27,7 @@
             "cumple":"false",
             "descripcion":"Accion Gallo Chocobarras",
             "imagen_url":"http://diee.github.io/diegoalarcon/images/gallo_10.jpg",
+   "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"1",
@@ -50,6 +52,7 @@
             "cumple":"false",
             "descripcion":"Accion Nesquik",
             "imagen_url":"http://diee.github.io/diegoalarcon/images/nesquik_24.jpg",
+            "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"24",
@@ -68,6 +71,7 @@
             "cumple":"false",
             "descripcion":"Accion pilas Energizer y Eveready",
             "imagen_url":"http://diee.github.io/diegoalarcon/images/energizer_2y3.jpg",
+            "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"1",
@@ -92,6 +96,7 @@
             "cumple":"false",
             "descripcion":"Suflair 20 unidades",
             "imagen_url":"http://diee.github.io/diegoalarcon/images/kitkat_6.jpg",
+            "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"20",
