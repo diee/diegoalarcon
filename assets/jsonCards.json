@@ -1,0 +1,19 @@
+{  
+   "cards":[  
+      {  
+         "id":0,
+         "category":"student",
+         "name":"Federico"
+      },
+      {  
+         "id":1,
+         "category":"developer",
+         "name":"Diego"
+      },
+      {  
+         "id":2,
+         "category":"camionero",
+         "name":"Leo"
+      }
+   ]
+}
