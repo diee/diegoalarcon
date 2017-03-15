@@ -190,6 +190,25 @@
                "productos":"",
                "cantidad":0
             }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"ENCENDEDOR BX7 TRASPARENTE 35%",
+            "imagen_url":"",
+   "feelogistico":"false",
+            "condiciones":[  
+               {  
+                  "cantidad":"1",
+                  "articulosId":[  
+                     311
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "descuento":"0.35",
+               "productos":"35% de Descuento",
+               "cantidad":0
+            }
          }
       ]
    }
