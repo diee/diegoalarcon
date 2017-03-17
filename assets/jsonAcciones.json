@@ -6,6 +6,7 @@
             "cumple":"false",
             "descripcion":"Accion OCB a eleccion 10%",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"false",
             "condiciones":[  
                {  
@@ -27,6 +28,7 @@
             "cumple":"false",
             "descripcion":"Accion Gallo Chocobarras 10%",
             "imagen_url":"",
+            "acumulable":"false",
    "feelogistico":"false",
             "condiciones":[  
                {  
@@ -52,6 +54,7 @@
             "cumple":"false",
             "descripcion":"Accion Nesquik - Chocobarra x24",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"false",
             "condiciones":[  
                {  
@@ -71,6 +74,7 @@
             "cumple":"false",
             "descripcion":"Accion 2 pilas Energizer y 3 Eveready",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"false",
             "condiciones":[  
                {  
@@ -96,6 +100,7 @@
             "cumple":"false",
             "descripcion":"Suflair 20 unidades",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"false",
             "condiciones":[  
                {  
@@ -115,6 +120,7 @@
             "cumple":"false",
             "descripcion":"RP x 10 3 Unidades",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"true",
             "condiciones":[  
                {  
@@ -135,6 +141,7 @@
             "cumple":"false",
             "descripcion":"RP x 10 5 Unidades",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"true",
             "condiciones":[  
                {  
@@ -155,6 +162,7 @@
             "cumple":"false",
             "descripcion":"RP x 10 10 Unidades",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"true",
             "condiciones":[  
                {  
@@ -175,6 +183,7 @@
             "cumple":"false",
             "descripcion":"RP x 10 25 Unidades",
             "imagen_url":"",
+            "acumulable":"false",
             "feelogistico":"true",
             "condiciones":[  
                {  
@@ -195,6 +204,7 @@
             "cumple":"false",
             "descripcion":"ENCENDEDOR BX7 TRASPARENTE 35%",
             "imagen_url":"",
+            "acumulable":"false",
    "feelogistico":"false",
             "condiciones":[  
                {  
