@@ -6,7 +6,7 @@
             "cumple":"false",
             "descripcion":"Accion OCB a eleccion 10%",
             "imagen_url":"",
-            "acumulable":"false",
+            "acumulable":"true",
             "feelogistico":"false",
             "condiciones":[  
                {  
