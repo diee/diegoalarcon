@@ -45,7 +45,7 @@
                }
             ],
             "recompensa":{  
-               "descuento":"0.10",
+               "descuento":"0.01",
                "productos":"10% de Descuento",
                "cantidad":0
             }
