@@ -29,7 +29,7 @@
             "descripcion":"Accion Gallo Chocobarras 10%",
             "imagen_url":"",
             "acumulable":"false",
-   "feelogistico":"false",
+            "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"1",
@@ -118,6 +118,46 @@
          },
          {  
             "cumple":"false",
+            "descripcion":"Chocoarroz Dulce de Leche, comprando 2 te llevas 1+ Sin Cargo",
+            "imagen_url":"",
+            "acumulable":"false",
+            "feelogistico":"false",
+            "condiciones":[  
+               {  
+                  "cantidad":"2",
+                  "articulosId":[  
+                     2501
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "descuento":"0",
+               "productos":"Chocoarroz +1",
+               "cantidad":0
+            }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"Oblea Gallo, comprando 2 te llevas 1+ Sin Cargo",
+            "imagen_url":"",
+            "acumulable":"false",
+            "feelogistico":"false",
+            "condiciones":[  
+               {  
+                  "cantidad":"2",
+                  "articulosId":[  
+                     2521
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "descuento":"0",
+               "productos":"Oblea Gallo +1",
+               "cantidad":0
+            }
+         },
+         {  
+            "cumple":"false",
             "descripcion":"RP x 10 3 Unidades",
             "imagen_url":"",
             "acumulable":"false",
@@ -130,8 +170,8 @@
                   ]
                }
             ],
-            "recompensa":{
-               "fee":"16.32",  
+            "recompensa":{  
+               "fee":"16.32",
                "descuento":"0.2785",
                "productos":"",
                "cantidad":0
@@ -151,8 +191,8 @@
                   ]
                }
             ],
-            "recompensa":{
-               "fee":"16.32",  
+            "recompensa":{  
+               "fee":"16.32",
                "descuento":"0.4304",
                "productos":"",
                "cantidad":0
@@ -172,8 +212,8 @@
                   ]
                }
             ],
-            "recompensa":{
-               "fee":"16.32",  
+            "recompensa":{  
+               "fee":"16.32",
                "descuento":"0.6835",
                "productos":"",
                "cantidad":0
@@ -193,8 +233,8 @@
                   ]
                }
             ],
-            "recompensa":{
-               "fee":"16.32",  
+            "recompensa":{  
+               "fee":"16.32",
                "descuento":"0.9367",
                "productos":"",
                "cantidad":0
@@ -205,7 +245,7 @@
             "descripcion":"ENCENDEDOR BX7 TRASPARENTE 35%",
             "imagen_url":"",
             "acumulable":"false",
-   "feelogistico":"false",
+            "feelogistico":"false",
             "condiciones":[  
                {  
                   "cantidad":"30",
