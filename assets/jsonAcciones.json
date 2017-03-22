@@ -28,7 +28,7 @@
             "cumple":"false",
             "descripcion":"Accion Gallo Chocobarras 10%",
             "imagen_url":"",
-            "acumulable":"false",
+            "acumulable":"true",
    "feelogistico":"false",
             "condiciones":[  
                {  
