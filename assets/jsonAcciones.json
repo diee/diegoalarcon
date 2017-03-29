@@ -23,6 +23,28 @@
                "productos":"OCB: 10% de Descuento",
                "cantidad":0
             }
+         },
+         {  
+            "cumple":"false",
+            "descripcion":"RP x 10 3 Unidades",
+            "imagen_url":"",
+            "acumulable":"false",
+            "feelogistico":"true",
+            "condiciones":[  
+               {  
+                  "cantidad":"3",
+                  "articulosId":[  
+                     2215,2218,2220,2221,2222
+                     
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "fee":"23.753",
+               "descuento":"0.0",
+               "productos":"",
+               "cantidad":0
+            }
          }
       ]
    }
