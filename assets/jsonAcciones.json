@@ -5,7 +5,7 @@
          {  
             "descripcion":"ENCENDEDOR BX7 TRANSAPARENTE X 20 S/C",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/bx7.png",
             "condiciones":[  
                {  
@@ -25,7 +25,7 @@
          {  
             "descripcion":"Bic Mini x 12 S/C",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/maximini.png",
             "condiciones":[  
                {  
@@ -51,7 +51,7 @@
          {  
             "descripcion":"AFEIT BIC 25% DESC ",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/ComfortBic.png",
             "condiciones":[  
                {  
@@ -73,7 +73,7 @@
          {  
             "descripcion":"BOLIGRAFO BIC OPACO",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/Biromes.png",
             "condiciones":[  
                {  
@@ -96,7 +96,7 @@
          {  
             "descripcion":"NESTLE BATON 15% DESC",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/baton.png",
             "condiciones":[  
                {  
@@ -128,7 +128,7 @@
          {  
             "descripcion":"NESTLE OBLEA NESQUIK",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/nesquick.png",
             "condiciones":[  
                {  
@@ -148,7 +148,7 @@
          {  
             "descripcion":"OCB 8% DESC",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/ocb.png",
             "condiciones":[  
                {  
@@ -170,7 +170,7 @@
          {  
             "descripcion":"ENERGIZER AA X 20",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/AA.png",
             "condiciones":[  
                {  
@@ -190,7 +190,7 @@
          {  
             "descripcion":"ENERGIZER AAA X 20",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/AAA.png",
             "condiciones":[  
                {  
@@ -210,7 +210,7 @@
          {  
             "descripcion":"ENERGIZER MINIATURAS",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/energizerboton.png",
             "condiciones":[  
                {  
@@ -233,7 +233,7 @@
          {  
             "descripcion":"ENERGIZER FERRETERIAS",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
             "condiciones":[  
                {  
@@ -259,7 +259,7 @@
          {  
             "descripcion":"CHOCOBARRA 20% DESC",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/chocobar.png",
             "condiciones":[  
                {  
@@ -285,7 +285,7 @@
          {  
             "descripcion":"BIZCOCHOS",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/bizcochos.png",
             "condiciones":[  
                {  
@@ -308,7 +308,7 @@
          {  
             "descripcion":"RP Fee Logistico",
             "acumulable":false,
-            "feelogistico":true,
+            "hasfee":true,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
             "condiciones":[  
                {  
@@ -332,7 +332,7 @@
          {  
             "descripcion":"RP Fee Logistico 2222",
             "acumulable":false,
-            "feelogistico":true,
+            "hasfee":true,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
             "condiciones":[  
                {  
