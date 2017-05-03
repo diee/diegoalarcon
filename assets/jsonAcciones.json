@@ -5,7 +5,7 @@
          {  
             "descripcion":"ENCENDEDOR BX7 TRANSAPARENTE X 20 S/C",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/bx7.png",
             "condiciones":[  
                {  
@@ -18,14 +18,14 @@
             "recompensa":{  
                "cantidad":1,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"ENCENDEDOR BX7 TRANSAPARENTE X 20"
             }
          },
          {  
             "descripcion":"Bic Mini x 12 S/C",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/maximini.png",
             "condiciones":[  
                {  
@@ -44,14 +44,14 @@
             "recompensa":{  
                "cantidad":1,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"Bic Mini x 12"
             }
          },
          {  
             "descripcion":"AFEIT BIC 25% DESC ",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/ComfortBic.png",
             "condiciones":[  
                {  
@@ -66,14 +66,14 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.25,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"AFEIT BIC 25% DESC"
             }
          },
          {  
             "descripcion":"BOLIGRAFO BIC OPACO",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/Biromes.png",
             "condiciones":[  
                {  
@@ -89,14 +89,14 @@
             "recompensa":{  
                "cantidad":1,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"LAPIZ BIC EVOLUTION X 12 U"
             }
          },
          {  
             "descripcion":"NESTLE BATON 15% DESC",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/baton.png",
             "condiciones":[  
                {  
@@ -121,14 +121,14 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.15,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"NESTLE BATON 15% DESC"
             }
          },
          {  
             "descripcion":"NESTLE OBLEA NESQUIK",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/nesquick.png",
             "condiciones":[  
                {  
@@ -141,14 +141,14 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.167,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"NESTLE OBLEA NESQUIK DESC"
             }
          },
          {  
             "descripcion":"OCB 8% DESC",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/ocb.png",
             "condiciones":[  
                {  
@@ -163,14 +163,14 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.08,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"OCB 8% DESC"
             }
          },
          {  
             "descripcion":"ENERGIZER AA X 20",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/AA.png",
             "condiciones":[  
                {  
@@ -183,14 +183,14 @@
             "recompensa":{  
                "cantidad":1,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"ENERGIZER AAA X 4"
             }
          },
          {  
             "descripcion":"ENERGIZER AAA X 20",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/AAA.png",
             "condiciones":[  
                {  
@@ -203,14 +203,14 @@
             "recompensa":{  
                "cantidad":1,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"ENERGIZER AAA X 4"
             }
          },
          {  
             "descripcion":"ENERGIZER MINIATURAS",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/energizerboton.png",
             "condiciones":[  
                {  
@@ -226,14 +226,14 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.1,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"ENERGIZER MINIATURAS 10% DESC"
             }
          },
          {  
             "descripcion":"ENERGIZER FERRETERIAS",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
             "condiciones":[  
                {  
@@ -252,14 +252,14 @@
             "recompensa":{  
                "cantidad":1,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"ENERGIZER 9V\r\nENERGIZER C X 2\r\nENERGIZER D X 2"
             }
          },
          {  
             "descripcion":"CHOCOBARRA 20% DESC",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/chocobar.png",
             "condiciones":[  
                {  
@@ -278,14 +278,14 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.2,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"CHOCOBARRA 20% DESC"
             }
          },
          {  
             "descripcion":"BIZCOCHOS",
             "acumulable":false,
-            "hasfee":false,
+            "feelogistico":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/bizcochos.png",
             "condiciones":[  
                {  
@@ -301,14 +301,14 @@
             "recompensa":{  
                "cantidad":4,
                "descuento":0.0,
-               "fee":0.0,
+               "fee_adicional":0.0,
                "productos":"GALLO BIZC. DE ARZ SALADO 50GRS"
             }
          },
          {  
             "descripcion":"RP Fee Logistico",
             "acumulable":false,
-            "hasfee":true,
+            "feelogistico":true,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
             "condiciones":[  
                {  
@@ -324,14 +324,15 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.0,
-               "fee":23.753,
-               "productos":""
+               "fee_adicional":23.753,
+               "productos":"",
+               "formula":"resultado = ((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
          },
          {  
             "descripcion":"RP Fee Logistico 2222",
             "acumulable":false,
-            "hasfee":true,
+            "feelogistico":true,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
             "condiciones":[  
                {  
@@ -344,51 +345,9 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.0,
-               "fee":34.193,
-               "productos":""
-            }
-         },
-         {  
-            "descripcion":"RP Fee Logistico",
-            "imagen_url":"",
-            "acumulable":false,
-            "hasfee":true,
-            "condiciones":[  
-               {  
-                  "cantidad":"1",
-                  "articulosId":[  
-                     "2215",
-                     "2218",
-                     "2220",
-                     "2221"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "fee":"23.753",
-               "descuento":"0.0",
+               "fee_adicional":34.193,
                "productos":"",
-               "cantidad":0
-            }
-         },
-         {  
-            "descripcion":"RP Fee Logistico 2222",
-            "imagen_url":"",
-            "acumulable":false,
-            "hasfee":true,
-            "condiciones":[  
-               {  
-                  "cantidad":"1",
-                  "articulosId":[  
-                     "2222"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "fee":"34.193",
-               "descuento":"0.0",
-               "productos":"",
-               "cantidad":0
+               "formula":"resultado = ((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
          }
       ]
