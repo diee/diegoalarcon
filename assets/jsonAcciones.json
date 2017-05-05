@@ -326,7 +326,7 @@
                "descuento":0.0,
                "fee_adicional":23.753,
                "descripcion":"",
-               "formula_fee":"resultado = ((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
          },
          {  
@@ -347,7 +347,7 @@
                "descuento":0.0,
                "fee_adicional":34.193,
                "descripcion":"",
-               "formula_fee":"resultado = ((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
          }
       ]
