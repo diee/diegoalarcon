@@ -19,7 +19,7 @@
                "cantidad":1,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"ENCENDEDOR BX7 TRANSAPARENTE X 20"
+               "descripcion":"ENCENDEDOR BX7 TRANSAPARENTE X 20"
             }
          },
          {  
@@ -45,7 +45,7 @@
                "cantidad":1,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"Bic Mini x 12"
+               "descripcion":"Bic Mini x 12"
             }
          },
          {  
@@ -67,7 +67,7 @@
                "cantidad":0,
                "descuento":0.25,
                "fee_adicional":0.0,
-               "productos":"AFEIT BIC 25% DESC"
+               "descripcion":"AFEIT BIC 25% DESC"
             }
          },
          {  
@@ -90,7 +90,7 @@
                "cantidad":1,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"LAPIZ BIC EVOLUTION X 12 U"
+               "descripcion":"LAPIZ BIC EVOLUTION X 12 U"
             }
          },
          {  
@@ -122,7 +122,7 @@
                "cantidad":0,
                "descuento":0.15,
                "fee_adicional":0.0,
-               "productos":"NESTLE BATON 15% DESC"
+               "descripcion":"NESTLE BATON 15% DESC"
             }
          },
          {  
@@ -142,7 +142,7 @@
                "cantidad":0,
                "descuento":0.167,
                "fee_adicional":0.0,
-               "productos":"NESTLE OBLEA NESQUIK DESC"
+               "descripcion":"NESTLE OBLEA NESQUIK DESC"
             }
          },
          {  
@@ -164,7 +164,7 @@
                "cantidad":0,
                "descuento":0.08,
                "fee_adicional":0.0,
-               "productos":"OCB 8% DESC"
+               "descripcion":"OCB 8% DESC"
             }
          },
          {  
@@ -184,7 +184,7 @@
                "cantidad":1,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"ENERGIZER AAA X 4"
+               "descripcion":"ENERGIZER AAA X 4"
             }
          },
          {  
@@ -204,7 +204,7 @@
                "cantidad":1,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"ENERGIZER AAA X 4"
+               "descripcion":"ENERGIZER AAA X 4"
             }
          },
          {  
@@ -227,7 +227,7 @@
                "cantidad":0,
                "descuento":0.1,
                "fee_adicional":0.0,
-               "productos":"ENERGIZER MINIATURAS 10% DESC"
+               "descripcion":"ENERGIZER MINIATURAS 10% DESC"
             }
          },
          {  
@@ -253,7 +253,7 @@
                "cantidad":1,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"ENERGIZER 9V\r\nENERGIZER C X 2\r\nENERGIZER D X 2"
+               "descripcion":"ENERGIZER 9V\r\nENERGIZER C X 2\r\nENERGIZER D X 2"
             }
          },
          {  
@@ -279,7 +279,7 @@
                "cantidad":0,
                "descuento":0.2,
                "fee_adicional":0.0,
-               "productos":"CHOCOBARRA 20% DESC"
+               "descripcion":"CHOCOBARRA 20% DESC"
             }
          },
          {  
@@ -302,7 +302,7 @@
                "cantidad":4,
                "descuento":0.0,
                "fee_adicional":0.0,
-               "productos":"GALLO BIZC. DE ARZ SALADO 50GRS"
+               "descripcion":"GALLO BIZC. DE ARZ SALADO 50GRS"
             }
          },
          {  
@@ -325,7 +325,7 @@
                "cantidad":0,
                "descuento":0.0,
                "fee_adicional":23.753,
-               "productos":"",
+               "descripcion":"",
                "formula_fee":"resultado = ((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
          },
@@ -346,7 +346,7 @@
                "cantidad":0,
                "descuento":0.0,
                "fee_adicional":34.193,
-               "productos":"",
+               "descripcion":"",
                "formula_fee":"resultado = ((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
          }
