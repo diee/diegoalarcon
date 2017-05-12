@@ -324,7 +324,7 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.0,
-               "fee_adicional":35.253,
+               "fee_adicional":350.253,
                "descripcion":"",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
             }
