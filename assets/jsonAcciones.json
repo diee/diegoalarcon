@@ -124,6 +124,37 @@
                "fee_adicional":0.0,
                "descripcion":"NESTLE BATON 15% DESC"
             }
+         },{  
+            "descripcion":"NESTLE BATON 35% DESC",
+            "acumulable":false,
+            "hasfee":false,
+            "imagen_url":"http://www.descuentocupones.net/wp-content/uploads/2014/06/cupones_descuento_35.jpg",
+            "condiciones":[  
+               {  
+                  "cantidad":1,
+                  "articulosId":[  
+                     "2619"
+                  ]
+               },
+               {  
+                  "cantidad":1,
+                  "articulosId":[  
+                     "2620"
+                  ]
+               },
+               {  
+                  "cantidad":1,
+                  "articulosId":[  
+                     "2627"
+                  ]
+               }
+            ],
+            "recompensa":{  
+               "cantidad":0,
+               "descuento":0.35,
+               "fee_adicional":0.0,
+               "descripcion":"TEST NESTLE BATON 35% DESC"
+            }
          },
          {  
             "descripcion":"NESTLE OBLEA NESQUIK",
