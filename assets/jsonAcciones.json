@@ -125,29 +125,29 @@
                "descripcion":"NESTLE BATON 15% DESC"
             }
          },{  
-            "descripcion":"NESTLE BATON 35% DESC",
+            "descripcion":"BIC 6 40% DESC",
             "acumulable":false,
             "hasfee":false,
-            "imagen_url":"http://www.descuentocupones.net/wp-content/uploads/2014/06/cupones_descuento_35.jpg",
+            "imagen_url":"https://aos.iacpublishinglabs.com/question/aq/1400px-788px/40-percent-off-35_17ca323663c3806e.jpg?domain=cx.aos.ask.com",
             "condiciones":[  
                {  
                   "cantidad":1,
                   "articulosId":[  
-                     "2619"
+                     "332"
                   ]
                },
                {  
                   "cantidad":1,
                   "articulosId":[  
-                     "2627"
+                     "311"
                   ]
                }
             ],
             "recompensa":{  
                "cantidad":0,
-               "descuento":0.35,
+               "descuento":0.40,
                "fee_adicional":0.0,
-               "descripcion":"TEST NESTLE BATON 35% DESC"
+               "descripcion":"TEST BIC 40% DESC"
             }
          },
          {  
