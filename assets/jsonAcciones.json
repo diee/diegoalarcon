@@ -18,8 +18,8 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.25,
-               "fee":0.0,
-               "productos":"BX7 25% de Desc."
+               "fee_adicional":0.0,
+               "descripcion":"BX7 25% de Desc."
             }
          },
          {  
