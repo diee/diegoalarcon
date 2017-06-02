@@ -3,23 +3,23 @@
    "response":{  
       "acciones":[  
          {  
-            "descripcion":"ENCENDEDOR BX7 TRANSAPARENTE X 20 S/C",
+            "descripcion":"P29",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/bx7.png",
+            "feelogistico":false,
+            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/P29.png",
             "condiciones":[  
                {  
-                  "cantidad":2,
+                  "cantidad":1,
                   "articulosId":[  
                      "311"
                   ]
                }
             ],
             "recompensa":{  
-               "cantidad":1,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"ENCENDEDOR BX7 TRANSAPARENTE X 20"
+               "cantidad":0,
+               "descuento":0.25,
+               "fee":0.0,
+               "productos":"BX7 25% de Desc."
             }
          },
          {  
