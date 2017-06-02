@@ -5,7 +5,7 @@
          {  
             "descripcion":"P29",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/P29.png",
             "condiciones":[  
                {  
@@ -94,26 +94,17 @@
             }
          },
          {  
-            "descripcion":"NESTLE BATON 15% DESC",
+            {  
+            "descripcion":"P184",
             "acumulable":false,
             "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/baton.png",
+            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/P184.png",
             "condiciones":[  
                {  
                   "cantidad":1,
                   "articulosId":[  
-                     "2619"
-                  ]
-               },
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2620"
-                  ]
-               },
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
+                     "2619",
+                     "2620",
                      "2627"
                   ]
                }
@@ -122,7 +113,7 @@
                "cantidad":0,
                "descuento":0.15,
                "fee_adicional":0.0,
-               "descripcion":"NESTLE BATON 15% DESC"
+               "descripcion":"BATON 15% de Desc."
             }
          },{  
             "descripcion":"BIC 6 40% DESC",
