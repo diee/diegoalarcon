@@ -115,10 +115,10 @@
                "descripcion":"BATON 15% de Desc."
             }
          },{  
-            "descripcion":"BIC 6 40% DESC",
+            "descripcion":"PBIC6",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"https://aos.iacpublishinglabs.com/question/aq/1400px-788px/40-percent-off-35_17ca323663c3806e.jpg?domain=cx.aos.ask.com",
+            "feelogistico":false,
+            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/PBIC6.png",
             "condiciones":[  
                {  
                   "cantidad":1,
@@ -135,9 +135,9 @@
             ],
             "recompensa":{  
                "cantidad":0,
-               "descuento":0.40,
-               "fee_adicional":0.0,
-               "descripcion":"TEST BIC 40% DESC"
+               "descuento":0.4,
+               "fee":0.0,
+               "productos":"BIC AFEIT & BX7 40% de Desc."
             }
          },
          {  
