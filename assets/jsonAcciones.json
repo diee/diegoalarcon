@@ -117,7 +117,7 @@
          },{  
             "descripcion":"PBIC6",
             "acumulable":false,
-            "feelogistico":false,
+            "hasfee":false,
             "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/PBIC6.png",
             "condiciones":[  
                {  
@@ -136,8 +136,8 @@
             "recompensa":{  
                "cantidad":0,
                "descuento":0.4,
-               "fee":0.0,
-               "productos":"BIC AFEIT & BX7 40% de Desc."
+               "fee_adicional":0.0,
+               "descripcion":"BIC AFEIT & BX7 40% de Desc."
             }
          },
          {  
