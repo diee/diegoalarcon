@@ -8,7 +8,9 @@
             "descuento":20,
             "inicio":"2017-06-05",
             "fin":"2017-06-12",
-            "rubros_excluidos":[850]
+            "rubros_excluidos":[850],
+            "monto_minimo":200,
+            "descuento_maximo":500
          },
          {  
             "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
@@ -16,7 +18,9 @@
             "descuento":10,
             "inicio":"2017-06-02",
             "fin":"2017-06-22",
-            "rubros_excluidos":[850]
+            "rubros_excluidos":[850],
+            "monto_minimo":200,
+            "descuento_maximo":500
          },
          {  
             "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
@@ -24,7 +28,9 @@
             "descuento":30,
             "inicio":"2017-06-20",
             "fin":"2017-06-22",
-            "rubros_excluidos":[850]
+            "rubros_excluidos":[850],
+            "monto_minimo":200,
+            "descuento_maximo":500
          }
       ]
    }
