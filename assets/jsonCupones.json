@@ -4,7 +4,7 @@
       "cupones":[  
          {  
             "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
-            "descripcion":"Cupon de Descuento para aplicarlo a tu compra",
+            "descripcion":"Cupon de Descuento por el Día de la Independencia, para aplicarlo a tu compra",
             "descuento":20,
             "inicio":"2017-06-05",
             "fin":"2017-06-12",
@@ -24,10 +24,10 @@
          },
          {  
             "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
-            "descripcion":"Cupon de Descuento para aplicarlo a tu compra",
-            "descuento":30,
-            "inicio":"2017-06-20",
-            "fin":"2017-06-22",
+            "descripcion":"Para festejar el 25 de Mayo, Cupon de 25% de descuento para aplicarlo a tu compra.",
+            "descuento":25,
+            "inicio":"2017-05-24",
+            "fin":"2017-05-26",
             "rubros_excluidos":[4,2],
             "monto_minimo":200,
             "descuento_maximo":500
