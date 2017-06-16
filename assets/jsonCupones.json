@@ -31,6 +31,16 @@
             "rubros_excluidos":[4,2],
             "monto_minimo":200,
             "descuento_maximo":500
+         },
+         {  
+            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
+            "descripcion":"Sos un mega super buen Cliente, te damos el Cupon Master de 50% de dto.",
+            "descuento":50,
+            "inicio":"2017-06-20",
+            "fin":"2017-06-22",
+            "rubros_excluidos":[4,3,2],
+            "monto_minimo":200,
+            "descuento_maximo":500
          }
       ]
    }
