@@ -1,0 +1,31 @@
+{  
+   "result":"ok",
+   "response":{  
+      "cupones":[  
+         {  
+            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
+            "descripcion":"Cupon de Descuento para aplicarlo a tu compra",
+            "descuento":20,
+            "inicio":"2017-06-05",
+            "fin":"2017-06-12",
+            "rubros_excluidos":[850]
+         },
+         {  
+            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
+            "descripcion":"Cupon de Descuento para aplicarlo a tu compra",
+            "descuento":10,
+            "inicio":"2017-06-02",
+            "fin":"2017-06-22",
+            "rubros_excluidos":[850]
+         },
+         {  
+            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
+            "descripcion":"Cupon de Descuento para aplicarlo a tu compra",
+            "descuento":30,
+            "inicio":"2017-06-20",
+            "fin":"2017-06-22",
+            "rubros_excluidos":[850]
+         }
+      ]
+   }
+}
