@@ -5,57 +5,43 @@
          {  
             "descripcion":"P29",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/P29.png",
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_2.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
+            "recompensa":{  
+               "descuento":"0.25",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"BX7 25% de Desc"
+            },
             "condiciones":[  
                {  
-                  "cantidad":1,
+                  "cantidad":"1",
                   "articulosId":[  
                      "311"
                   ]
                }
             ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.25,
-               "fee_adicional":0.0,
-               "descripcion":"BX7 25% de Desc."
-            }
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_2.jpg",
+            "feelogistico":false
          },
          {  
-            "descripcion":"Bic Mini x 12 S/C",
+            "descripcion":"AFEIT BIC 25% DESC",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/maximini.png",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "305"
-                  ]
-               },
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "307"
-                  ]
-               }
-            ],
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_3.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "cantidad":1,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"Bic Mini x 12"
-            }
-         },
-         {  
-            "descripcion":"AFEIT BIC 25% DESC ",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/ComfortBic.png",
+               "descuento":"0.25",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"AFEIT BIC 25% DESC"
+            },
             "condiciones":[  
                {  
-                  "cantidad":1,
+                  "cantidad":"1",
                   "articulosId":[  
                      "322",
                      "332",
@@ -63,44 +49,105 @@
                   ]
                }
             ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.25,
-               "fee_adicional":0.0,
-               "descripcion":"AFEIT BIC 25% DESC"
-            }
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_3.jpg",
+            "feelogistico":false
          },
          {  
-            "descripcion":"BOLIGRAFO BIC OPACO",
+            "descripcion":"PBIC6",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/Biromes.png",
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_4.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
+            "recompensa":{  
+               "descuento":"0.4",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"BIC AFEIT & BX7 40% de Desc."
+            },
             "condiciones":[  
                {  
-                  "cantidad":1,
+                  "cantidad":"1",
+                  "articulosId":[  
+                     "332"
+                  ]
+               },
+               {  
+                  "cantidad":"1",
+                  "articulosId":[  
+                     "311"
+                  ]
+               }
+            ],
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_4.jpg",
+            "feelogistico":false
+         },
+         {  
+            "descripcion":"P5",
+            "acumulable":false,
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_5.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
+            "recompensa":{  
+               "descuento":"0",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"LAPIZ BIC EVOL. X 12 U"
+            },
+            "condiciones":[  
+               {  
+                  "cantidad":"1",
                   "articulosId":[  
                      "300",
                      "301",
-                     "302",
                      "303"
                   ]
                }
             ],
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_5.jpg",
+            "feelogistico":false
+         },
+         {  
+            "descripcion":"P100",
+            "acumulable":false,
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_6.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "cantidad":1,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"LAPIZ BIC EVOLUTION X 12 U"
-            }
+               "descuento":"0",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"AFEIT BIC 3 AZUL X 12U"
+            },
+            "condiciones":[  
+               {  
+                  "cantidad":"1",
+                  "articulosId":[  
+                     "3054"
+                  ]
+               }
+            ],
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_6.jpg",
+            "feelogistico":false
          },
          {  
             "descripcion":"P184",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/P184.png",
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_7.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
+            "recompensa":{  
+               "descuento":"0.15",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"BATON 15% de Desc."
+            },
             "condiciones":[  
                {  
-                  "cantidad":1,
+                  "cantidad":"1",
                   "articulosId":[  
                      "2619",
                      "2620",
@@ -108,66 +155,25 @@
                   ]
                }
             ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.15,
-               "fee_adicional":0.0,
-               "descripcion":"BATON 15% de Desc."
-            }
-         },{  
-            "descripcion":"PBIC6",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/PBIC6.png",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "332"
-                  ]
-               },
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "311"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.4,
-               "fee_adicional":0.0,
-               "descripcion":"BIC AFEIT & BX7 40% de Desc."
-            }
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_7.jpg",
+            "feelogistico":false
          },
          {  
-            "descripcion":"NESTLE OBLEA NESQUIK",
+            "descripcion":"P194",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/nesquick.png",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2621"
-                  ]
-               }
-            ],
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_8.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "cantidad":0,
-               "descuento":0.167,
-               "fee_adicional":0.0,
-               "descripcion":"NESTLE OBLEA NESQUIK DESC"
-            }
-         },
-         {  
-            "descripcion":"OCB 8% DESC",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/ocb.png",
+               "descuento":"0.08",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"OCB PAPEL 8% de Desc."
+            },
             "condiciones":[  
                {  
-                  "cantidad":1,
+                  "cantidad":"1",
                   "articulosId":[  
                      "2212",
                      "2214",
@@ -175,195 +181,63 @@
                   ]
                }
             ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.08,
-               "fee_adicional":0.0,
-               "descripcion":"OCB 8% DESC"
-            }
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_8.jpg",
+            "feelogistico":false
          },
          {  
-            "descripcion":"ENERGIZER AA X 20",
+            "descripcion":"P215",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/AA.png",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2705"
-                  ]
-               }
-            ],
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_9.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "cantidad":1,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"ENERGIZER AAA X 4"
-            }
-         },
-         {  
-            "descripcion":"ENERGIZER AAA X 20",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/AAA.png",
+               "descuento":"0.15",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"ENERGIZER 15% de Desc."
+            },
             "condiciones":[  
                {  
-                  "cantidad":1,
+                  "cantidad":"1",
                   "articulosId":[  
+                     "2705",
                      "2707"
                   ]
                }
             ],
-            "recompensa":{  
-               "cantidad":1,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"ENERGIZER AAA X 4"
-            }
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_9.jpg",
+            "feelogistico":false
          },
          {  
-            "descripcion":"ENERGIZER MINIATURAS",
+            "descripcion":"P18",
             "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/energizerboton.png",
-            "condiciones":[  
-               {  
-                  "cantidad":5,
-                  "articulosId":[  
-                     "2724",
-                     "2725",
-                     "2726",
-                     "2731"
-                  ]
-               }
-            ],
+            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_10.jpg",
+            "segmentos":"-1",
+            "vigencia_inicio":"2017-06-15",
+            "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "cantidad":0,
-               "descuento":0.1,
-               "fee_adicional":0.0,
-               "descripcion":"ENERGIZER MINIATURAS 10% DESC"
-            }
-         },
-         {  
-            "descripcion":"ENERGIZER FERRETERIAS",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
+               "descuento":"0",
+               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
+               "fee":"0",
+               "productos":"ENERGIZER AAA X 4"
+            },
             "condiciones":[  
                {  
-                  "cantidad":24,
+                  "cantidad":"3",
                   "articulosId":[  
-                     "2705"
+                     "2706"
                   ]
                },
                {  
-                  "cantidad":48,
+                  "cantidad":"2",
                   "articulosId":[  
-                     "2707"
+                     "2708"
                   ]
                }
             ],
-            "recompensa":{  
-               "cantidad":1,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"ENERGIZER 9V\r\nENERGIZER C X 2\r\nENERGIZER D X 2"
-            }
-         },
-         {  
-            "descripcion":"CHOCOBARRA 20% DESC",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/chocobar.png",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2524"
-                  ]
-               },
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2525"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.2,
-               "fee_adicional":0.0,
-               "descripcion":"CHOCOBARRA 20% DESC"
-            }
-         },
-         {  
-            "descripcion":"BIZCOCHOS",
-            "acumulable":false,
-            "hasfee":false,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/bizcochos.png",
-            "condiciones":[  
-               {  
-                  "cantidad":16,
-                  "articulosId":[  
-                     "2518",
-                     "2526",
-                     "2522",
-                     "2517"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "cantidad":4,
-               "descuento":0.0,
-               "fee_adicional":0.0,
-               "descripcion":"GALLO BIZC. DE ARZ SALADO 50GRS"
-            }
-         },
-         {  
-            "descripcion":"RP Fee Logistico",
-            "acumulable":false,
-            "hasfee":true,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2215",
-                     "2218",
-                     "2220",
-                     "2221"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.0,
-               "fee_adicional":35.253,
-               "descripcion":"",
-               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
-            }
-         },
-         {  
-            "descripcion":"RP Fee Logistico 2222",
-            "acumulable":false,
-            "hasfee":true,
-            "imagen_url":"http://d1omwtr2ho315d.cloudfront.net/images/promociones/",
-            "condiciones":[  
-               {  
-                  "cantidad":1,
-                  "articulosId":[  
-                     "2222"
-                  ]
-               }
-            ],
-            "recompensa":{  
-               "cantidad":0,
-               "descuento":0.0,
-               "fee_adicional":35.58,
-               "descripcion":"",
-               "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))"
-            }
+            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_10.jpg",
+            "feelogistico":false
          }
       ]
    }
