@@ -13,7 +13,7 @@
                "descuento":"0.25",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"BX7 25% de Desc"
+               "descripcion":"BX7 25% de Desc"
             },
             "condiciones":[  
                {  
@@ -37,7 +37,7 @@
                "descuento":"0.25",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"AFEIT BIC 25% DESC"
+               "descripcion":"AFEIT BIC 25% DESC"
             },
             "condiciones":[  
                {  
@@ -63,7 +63,7 @@
                "descuento":"0.4",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"BIC AFEIT & BX7 40% de Desc."
+               "descripcion":"BIC AFEIT & BX7 40% de Desc."
             },
             "condiciones":[  
                {  
@@ -93,7 +93,7 @@
                "descuento":"0",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"LAPIZ BIC EVOL. X 12 U"
+               "descripcion":"LAPIZ BIC EVOL. X 12 U"
             },
             "condiciones":[  
                {  
@@ -119,7 +119,7 @@
                "descuento":"0",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"AFEIT BIC 3 AZUL X 12U"
+               "descripcion":"AFEIT BIC 3 AZUL X 12U"
             },
             "condiciones":[  
                {  
@@ -143,7 +143,7 @@
                "descuento":"0.15",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"BATON 15% de Desc."
+               "descripcion":"BATON 15% de Desc."
             },
             "condiciones":[  
                {  
@@ -169,7 +169,7 @@
                "descuento":"0.08",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"OCB PAPEL 8% de Desc."
+               "descripcion":"OCB PAPEL 8% de Desc."
             },
             "condiciones":[  
                {  
@@ -195,7 +195,7 @@
                "descuento":"0.15",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"ENERGIZER 15% de Desc."
+               "descripcion":"ENERGIZER 15% de Desc."
             },
             "condiciones":[  
                {  
@@ -220,7 +220,7 @@
                "descuento":"0",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "productos":"ENERGIZER AAA X 4"
+               "descripcion":"ENERGIZER AAA X 4"
             },
             "condiciones":[  
                {  
