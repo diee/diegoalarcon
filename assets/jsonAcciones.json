@@ -3,53 +3,63 @@
    "response":{  
       "acciones":[  
          {  
-            "descripcion":"P29",
+            "descripcion":"PROMO COCA COLA - LATA 500ML",
             "acumulable":false,
             "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_2.jpg",
             "segmentos":"-1",
             "vigencia_inicio":"2017-06-15",
             "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "descuento":"0.25",
+               "descuento":0,
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "descripcion":"BX7 25% de Desc"
+               "descripcion":"COCA COLA - LATA 500ML"
             },
             "condiciones":[  
                {  
-                  "cantidad":"1",
+                  "cantidad":6,
                   "articulosId":[  
-                     "311"
+                     "7003"
+                  ]
+               },
+               {  
+                  "cantidad":6,
+                  "articulosId":[  
+                     "7001"
                   ]
                }
             ],
-            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_2.jpg",
+            "imagen_url":"http://d1wsxnrt0wd6bl.cloudfront.net/images/promociones/maximini.png",
             "feelogistico":false
          },
          {  
-            "descripcion":"AFEIT BIC 25% DESC",
+            "descripcion":"PROMO ENERGIZER AA X 4",
             "acumulable":false,
             "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_3.jpg",
             "segmentos":"-1",
             "vigencia_inicio":"2017-06-15",
             "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "descuento":"0.25",
+               "descuento":0,
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "descripcion":"AFEIT BIC 25% DESC"
+               "descripcion":"ENERGIZER AA X 4"
             },
             "condiciones":[  
                {  
-                  "cantidad":"1",
+                  "cantidad":2,
                   "articulosId":[  
-                     "322",
-                     "332",
-                     "320"
+                     "7206"
+                  ]
+               },
+               {  
+                  "cantidad":3,
+                  "articulosId":[  
+                     "7205"
                   ]
                }
             ],
-            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_3.jpg",
+            "imagen_url":"http://d1wsxnrt0wd6bl.cloudfront.net/images/promociones/energizerx4.png",
             "feelogistico":false
          },
          {  
