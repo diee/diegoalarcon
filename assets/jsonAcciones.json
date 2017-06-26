@@ -63,39 +63,39 @@
             "feelogistico":false
          },
          {  
-            "descripcion":"PBIC6",
+            "descripcion":"PROMO CIGARRILLO - TOFI",
             "acumulable":false,
-            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_4.jpg",
+            "imagen_tag_url":"https://oks-dev-multimedia.s3.amazonaws.com/images/promociones/tag_10.jpg",
             "segmentos":"-1",
             "vigencia_inicio":"2017-06-15",
             "vigencia_fin":"2017-06-30",
             "recompensa":{  
-               "descuento":"0.4",
+               "descuento":0,
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "descripcion":"BIC AFEIT & BX7 40% de Desc."
+               "descripcion":"CHOCOLATE TOFI BLANCO pack x 12"
             },
             "condiciones":[  
                {  
-                  "cantidad":"1",
+                  "cantidad":50,
                   "articulosId":[  
-                     "332"
+                     "40"
                   ]
                },
                {  
-                  "cantidad":"1",
+                  "cantidad":24,
                   "articulosId":[  
-                     "311"
+                     "7108"
                   ]
                }
             ],
-            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_4.jpg",
+            "imagen_url":"http://d1wsxnrt0wd6bl.cloudfront.net/images/promociones/rpbx7.png",
             "feelogistico":false
          },
          {  
-            "descripcion":"P5",
+            "descripcion":"PROMO DURACELL",
             "acumulable":false,
-            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_5.jpg",
+            "imagen_tag_url":"https://oks-dev-multimedia.s3.amazonaws.com/images/promociones/tag_10.jpg",
             "segmentos":"-1",
             "vigencia_inicio":"2017-06-15",
             "vigencia_fin":"2017-06-30",
@@ -103,19 +103,23 @@
                "descuento":"0",
                "formula_fee":"((((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee))+(impuestos_internos*cantidad))+(((precio*cantidad)+((fee_adicional*cantidad)-(fee_adicional*cantidad*descuento_fee)))*iva))",
                "fee":"0",
-               "descripcion":"LAPIZ BIC EVOL. X 12 U"
+               "descripcion":"24 x Duracell MN21\r\n12 x Duracell D"
             },
             "condiciones":[  
                {  
-                  "cantidad":"1",
+                  "cantidad":12,
                   "articulosId":[  
-                     "300",
-                     "301",
-                     "303"
+                     "7201"
+                  ]
+               },
+               {  
+                  "cantidad":24,
+                  "articulosId":[  
+                     "7207"
                   ]
                }
             ],
-            "imagen_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/promo_5.jpg",
+            "imagen_url":"http://d1wsxnrt0wd6bl.cloudfront.net/images/promociones/energizermedium.png",
             "feelogistico":false
          },
          {  
