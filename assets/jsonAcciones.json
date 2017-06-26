@@ -5,7 +5,7 @@
          {  
             "descripcion":"PROMO COCA COLA - LATA 500ML",
             "acumulable":false,
-            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_2.jpg",
+            "imagen_tag_url":"https://oks-dev-multimedia.s3.amazonaws.com/images/promociones/tag_10.jpg",
             "segmentos":"-1",
             "vigencia_inicio":"2017-06-15",
             "vigencia_fin":"2017-06-30",
@@ -35,7 +35,7 @@
          {  
             "descripcion":"PROMO ENERGIZER AA X 4",
             "acumulable":false,
-            "imagen_tag_url":"https:\/\/oks-dev-multimedia.s3.amazonaws.com\/images\/promociones\/tag_3.jpg",
+            "imagen_tag_url":"https://oks-dev-multimedia.s3.amazonaws.com/images/promociones/tag_10.jpg",
             "segmentos":"-1",
             "vigencia_inicio":"2017-06-15",
             "vigencia_fin":"2017-06-30",
