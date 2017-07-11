@@ -3,44 +3,30 @@
    "response":{  
       "cupones":[  
          {  
-            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
-            "descripcion":"Cupon de Descuento por el Día de la Independencia, para aplicarlo a tu compra",
-            "descuento":20,
-            "vigencia_vigencia_inicio":"2017-06-05",
-            "vigencia_fin":"2017-06-12",
-            "rubros_excluidos":[4],
-            "monto_minimo":200,
-            "descuento_maximo":500
+            "id":"1",
+            "descripcion":"Accusamus incidunt sequi eos voluptas. Explicabo commodi doloremque odio tempora dolorum. Beatae veniam fuga corporis ut. Ut nihil ea iure voluptatem.",
+            "descuento":"2",
+            "monto_minimo":"821.967",
+            "descuento_maximo":"600",
+            "rubros_excluidos":null,
+            "segmentos":"-1",
+            "clientes":null,
+            "vigencia_inicio":"2017-06-06",
+            "vigencia_fin":"2020-06-06",
+            "activo":"1"
          },
          {  
-            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
-            "descripcion":"Cupon de Descuento para aplicarlo a tu compra",
-            "descuento":10,
-            "vigencia_inicio":"2017-06-02",
-            "vigencia_fin":"2017-06-22",
-            "rubros_excluidos":[4],
-            "monto_minimo":200,
-            "descuento_maximo":500
-         },
-         {  
-            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
-            "descripcion":"Para festejar el 25 de Mayo, Cupon de 25% de descuento para aplicarlo a tu compra.",
-            "descuento":25,
-            "vigencia_inicio":"2017-05-24",
-            "vigencia_fin":"2017-05-26",
-            "rubros_excluidos":[4,2],
-            "monto_minimo":200,
-            "descuento_maximo":500
-         },
-         {  
-            "imagen_url":"http://www.expouniversidad.com.ar/images/entradas/descuento-icon.png",
-            "descripcion":"Sos un mega super buen Cliente, te damos el Cupon Master de 50% de dto.",
-            "descuento":50,
-            "vigencia_inicio":"2017-06-20",
-            "vigencia_fin":"2017-06-22",
-            "rubros_excluidos":[4,3,2],
-            "monto_minimo":200,
-            "descuento_maximo":500
+            "id":"2",
+            "descripcion":"Accusamus incidunt sequi eos voluptas. Explicabo commodi doloremque odio tempora dolorum. Beatae veniam fuga corporis ut. Ut nihil ea iure voluptatem.",
+            "descuento":"2",
+            "monto_minimo":"821.967",
+            "descuento_maximo":"600",
+            "rubros_excluidos":null,
+            "segmentos":"-1",
+            "clientes":null,
+            "vigencia_inicio":"2017-06-06",
+            "vigencia_fin":"2020-06-06",
+            "activo":"1"
          }
       ]
    }
